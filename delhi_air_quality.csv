@@ -1,0 +1,2458 @@
+date, pm25, pm10, o3, no2, so2, co,aqi score,quality
+6/3/2018, ,115,17,17,5,8,115,Unhealthy for Sensitive Groups
+6/4/2018,145,136,17,15,6,8,145,Unhealthy for Sensitive Groups
+6/5/2018,143,113,13,15,3,8,143,Unhealthy for Sensitive Groups
+6/6/2018,125,133,8,13,5,9,133,Unhealthy for Sensitive Groups
+6/7/2018,139,171,8,19,7,11,171,Unhealthy
+6/8/2018,160,165,5,14,5,9,165,Unhealthy
+6/9/2018,158,98,3,14,7,8,158,Unhealthy
+6/10/2018,134,122,4,17,8,8,134,Unhealthy for Sensitive Groups
+6/11/2018,152,212,6,16,6,11,212,Very Unhealthy
+6/12/2018,157,621,1,17,9,8,621,Hazardous
+6/13/2018,250,966,4,11,5,7,966,Hazardous
+6/14/2018,264,893,13,10,8,4,893,Hazardous
+6/15/2018,241,678,19,11,7,6,678,Hazardous
+6/16/2018,187,511,17,12,8,6,511,Hazardous
+6/17/2018,168,256,17,9,7,6,256,Very Unhealthy
+6/18/2018,153,131,1,9,5,6,153,Unhealthy
+6/19/2018,128,146,1,10,6,7,146,Unhealthy for Sensitive Groups
+6/20/2018,138,176,1,11,7,8,176,Unhealthy
+6/21/2018,154,281,1,10,3,7,281,Very Unhealthy
+6/22/2018,149,170,1,16,4,8,170,Unhealthy
+6/23/2018,149,265,1,19,4,11,265,Very Unhealthy
+6/24/2018,182,210,1,10,6,7,210,Very Unhealthy
+6/25/2018,157,317,1,12,7,6,317,Hazardous
+6/26/2018,155,190,1,10,7,6,190,Unhealthy
+6/27/2018,133,87,2,19,5,8,133,Unhealthy for Sensitive Groups
+6/28/2018,116,44,3,25,11,8,116,Unhealthy for Sensitive Groups
+6/29/2018,60,68,6,13,11,8,68,Moderate
+6/30/2018,93,79,5,16,11,9,93,Moderate
+7/1/2018,105,61,6,9,8,7,105,Unhealthy for Sensitive Groups
+7/2/2018,59,89,13,9,9,6,89,Moderate
+7/3/2018,69,91,27,14,10,8,91,Moderate
+7/4/2018,96,96,21,11,9,7,96,Moderate
+7/5/2018,111,110,11,10,10,7,111,Unhealthy for Sensitive Groups
+7/6/2018,103,127,28,7,9,6,127,Unhealthy for Sensitive Groups
+7/7/2018,117,189,33,11,6,8,189,Unhealthy
+7/8/2018,156,227,31,16,8,10,227,Very Unhealthy
+7/9/2018,150,129,37,16,11,12,150,Unhealthy for Sensitive Groups
+7/10/2018,160,96,20,12,9,8,160,Unhealthy
+7/11/2018,122,88,9,11,10,8,122,Unhealthy for Sensitive Groups
+7/12/2018,108,93,15,11,7,8,108,Unhealthy for Sensitive Groups
+7/13/2018,100,55,4,13,3,9,100,Moderate
+7/14/2018,80,64,6,14,11,9,80,Moderate
+7/15/2018,105,71,11,12,6,9,105,Unhealthy for Sensitive Groups
+7/16/2018,93,71,2,12,5,8,93,Moderate
+7/17/2018,81,116,10,12,11,11,116,Unhealthy for Sensitive Groups
+7/18/2018,106,91,11,12,9,9,106,Unhealthy for Sensitive Groups
+7/19/2018,104,81,13,11,11,7,104,Unhealthy for Sensitive Groups
+7/20/2018,100,72,4,11,11,7,100,Moderate
+7/21/2018,106,78,4,16,12,10,106,Unhealthy for Sensitive Groups
+7/22/2018,107,44,5,10,11,9,107,Unhealthy for Sensitive Groups
+7/23/2018,69,69,5,12,9,9,69,Moderate
+7/24/2018,87,104,7,11,8,9,104,Unhealthy for Sensitive Groups
+7/25/2018,127,74,3,9,4,7,127,Unhealthy for Sensitive Groups
+7/26/2018,78,39,3,7,7,6,78,Moderate
+7/27/2018,60,22,3,5,7,6,60,Moderate
+7/28/2018,41,56,5,7,7,7,56,Moderate
+7/29/2018,77, , , , , ,77,Moderate
+7/30/2018, ,101,7,6,8,7,101,Unhealthy for Sensitive Groups
+7/31/2018,86,155,9,8,6,9,155,Unhealthy
+8/1/2018,114,150,9,11,5,7,150,Unhealthy for Sensitive Groups
+8/2/2018,118,243,6,9,5,7,243,Very Unhealthy
+8/3/2018,143,256,4,9,5,6,256,Very Unhealthy
+8/4/2018,144,272,5,9,5,6,272,Very Unhealthy
+8/5/2018,144,197,2,8,4,6,197,Unhealthy
+8/6/2018,135,96,2,11,5,8,135,Unhealthy for Sensitive Groups
+8/7/2018,120,104,4,11,7,8,120,Unhealthy for Sensitive Groups
+8/8/2018,126,69,3,10,6,8,126,Unhealthy for Sensitive Groups
+8/9/2018,105,87,9,11,3,7,105,Unhealthy for Sensitive Groups
+8/10/2018,94,144,3,14,5,10,144,Unhealthy for Sensitive Groups
+8/11/2018,129,94,3,9,6,6,129,Unhealthy for Sensitive Groups
+8/12/2018,81,77,4,9,5,6,81,Moderate
+8/13/2018,69,89,6,10,6,7,89,Moderate
+8/14/2018,79,115,6,12,7,8,115,Unhealthy for Sensitive Groups
+8/15/2018,123,95,8,10,6,7,123,Unhealthy for Sensitive Groups
+8/16/2018,107,80,15,14,5,10,107,Unhealthy for Sensitive Groups
+8/17/2018,111,128,1,9,5,7,128,Unhealthy for Sensitive Groups
+8/18/2018,106,76, ,12,6,9,106,Unhealthy for Sensitive Groups
+8/19/2018,97,66, ,9,7,8,97,Moderate
+8/20/2018,102,111,1,12,5,9,111,Unhealthy for Sensitive Groups
+8/21/2018,141,79,1,13,9,8,141,Unhealthy for Sensitive Groups
+8/22/2018,89,61,1,13,10,12,89,Moderate
+8/23/2018,80,68,5,9,10,8,80,Moderate
+8/24/2018,84,105,10,8,11,6,105,Unhealthy for Sensitive Groups
+8/25/2018,67,128,10,6,18,6,128,Unhealthy for Sensitive Groups
+8/26/2018,59, , , , , ,59,Moderate
+8/27/2018, ,97,7,11,7,9,97,Moderate
+8/28/2018,83,48,4,10,7,9,83,Moderate
+8/29/2018,75,55,3,13,6,8,75,Moderate
+8/30/2018,76,94,3,12,7,10,94,Moderate
+8/31/2018,97,144,1,11,7,9,144,Unhealthy for Sensitive Groups
+9/1/2018,113,110,1,15,8,10,113,Unhealthy for Sensitive Groups
+9/2/2018,115,65,1,10,10,9,115,Unhealthy for Sensitive Groups
+9/3/2018,95,57,1,12,5,11,95,Moderate
+9/4/2018,107,88,2,14,6,15,107,Unhealthy for Sensitive Groups
+9/5/2018,138,89,2,11,6,8,138,Unhealthy for Sensitive Groups
+9/6/2018,98,96,2,9,7,8,98,Moderate
+9/7/2018,95,59,2,14,8,9,95,Moderate
+9/8/2018,79,59,2,10,9,8,79,Moderate
+9/9/2018,83,52,2,10,11,7,83,Moderate
+9/10/2018,65,86,2,14,7,8,86,Moderate
+9/11/2018,101,87,3,8,7,7,101,Unhealthy for Sensitive Groups
+9/12/2018,72,114,14,8,8,6,114,Unhealthy for Sensitive Groups
+9/13/2018,72,95,14,7,13,6,95,Moderate
+9/14/2018,62,119,21,8,7,6,119,Unhealthy for Sensitive Groups
+9/15/2018,85,163,22,10,9,7,163,Unhealthy
+9/16/2018,113,124,23,9,8,6,124,Unhealthy for Sensitive Groups
+9/17/2018,118,145,35,10,8,8,145,Unhealthy for Sensitive Groups
+9/18/2018,145,148,36,11,9,8,148,Unhealthy for Sensitive Groups
+9/19/2018,149,182,40,13,8,9,182,Unhealthy
+9/20/2018,153,170,51,15,14,10,170,Unhealthy
+9/21/2018,163,104,18,16,9,8,163,Unhealthy
+9/22/2018,108,36,8,11,8,7,108,Unhealthy for Sensitive Groups
+9/23/2018,63,54,12,11,13,7,63,Moderate
+9/24/2018,90,27,10,9,12,7,90,Moderate
+9/25/2018,53,39,15,5,13,7,53,Moderate
+9/26/2018,57,110,26,10,12,9,110,Unhealthy for Sensitive Groups
+9/27/2018,117,207,30,14,16,12,207,Very Unhealthy
+9/28/2018,157,282,27,17,13,15,282,Very Unhealthy
+9/29/2018,168,287,38,16,9,13,287,Very Unhealthy
+9/30/2018,176,140,28,11,11,10,176,Unhealthy
+10/1/2018,155,188,28,14,10,10,188,Unhealthy
+10/2/2018,158,146,22,14,14,9,158,Unhealthy
+10/3/2018,157,186,25,16,11,9,186,Unhealthy
+10/4/2018,151,259,45,19,10,12,259,Very Unhealthy
+10/5/2018,191,365,26,21,10,14,365,Hazardous
+10/6/2018,267,239,14,18,12,10,267,Very Unhealthy
+10/7/2018,169,188,26,15,10,9,188,Unhealthy
+10/8/2018,170,251,34,22,14,11,251,Very Unhealthy
+10/9/2018,194,249,64,30,10,15,249,Very Unhealthy
+10/10/2018,191,203,23,26,9,13,203,Very Unhealthy
+10/11/2018,176,171,17,19,12,9,176,Unhealthy
+10/12/2018,151,179,23,16,10,7,179,Unhealthy
+10/13/2018,163,264,22,18,10,10,264,Very Unhealthy
+10/14/2018,214,254,24,17,12,11,254,Very Unhealthy
+10/15/2018,201,226,22,20,11,10,226,Very Unhealthy
+10/16/2018,192,491,16,35,12,22,491,Hazardous
+10/17/2018,280,379,8,25,11,16,379,Hazardous
+10/18/2018,231,481,46,31,10,23,481,Hazardous
+10/19/2018,257,272,67,21,9,11,272,Very Unhealthy
+10/20/2018,210,372,37,19,10,11,372,Hazardous
+10/21/2018,257,284,38,19,9,12,284,Very Unhealthy
+10/22/2018,216,375,44,23,8,12,375,Hazardous
+10/23/2018,215,340,44,24,10,11,340,Hazardous
+10/24/2018,212,581,74,39,13,21,581,Hazardous
+10/25/2018,291,515,44,35,12,20,515,Hazardous
+10/26/2018,285,547,28,31,11,20,547,Hazardous
+10/27/2018,295,573,45,37,9,25,573,Hazardous
+10/28/2018,337,464,38,29,7,18,464,Hazardous
+10/29/2018,331,516,39,31,14,19,516,Hazardous
+10/30/2018,348,470,45,32,14,20,470,Hazardous
+10/31/2018,349,583,45,36,14,26,583,Hazardous
+11/1/2018,375,569,56,42,13,29,569,Hazardous
+11/2/2018,388,287,67,43,12,17,388,Hazardous
+11/3/2018,273,227,34,34,13,14,273,Very Unhealthy
+11/4/2018,240,124,44,13,10,7,240,Very Unhealthy
+11/5/2018,179,433,30,19,11,15,433,Hazardous
+11/6/2018,405,317,38,14,10,10,405,Hazardous
+11/7/2018,282,238,46,18,14,9,282,Very Unhealthy
+11/8/2018,257,497,27,23,20,15,497,Hazardous
+11/9/2018,465,342,36,25,11,18,465,Hazardous
+11/10/2018,352,450,35,39,12,29,450,Hazardous
+11/11/2018,403,507,30,37,12,33,507,Hazardous
+11/12/2018,403,524,38,38,15,25,524,Hazardous
+11/13/2018,405,437,11,47,14,31,437,Hazardous
+11/14/2018,367,149,12,33,12,14,367,Hazardous
+11/15/2018,203,128,15,21,10,11,203,Very Unhealthy
+11/16/2018,194,192,23,16,11,10,194,Unhealthy
+11/17/2018,250,240,19,22,10,11,250,Very Unhealthy
+11/18/2018,223,294,22,24,11,15,294,Very Unhealthy
+11/19/2018,270,253,20,24,11,14,270,Very Unhealthy
+11/20/2018,247,413,15,35,10,17,413,Hazardous
+11/21/2018,332,369,15,109,13,14,369,Hazardous
+11/22/2018,326,295,19,97,15,16,326,Hazardous
+11/23/2018,233,383,4,30,17,16,383,Hazardous
+11/24/2018,313,208,16,22,12,10,313,Hazardous
+11/25/2018,203,226,29,25,10,12,226,Very Unhealthy
+11/26/2018,228,406,31,31,13,19,406,Hazardous
+11/27/2018,346,480,19,43,8,27,480,Hazardous
+11/28/2018,356,426,16,37,9,26,426,Hazardous
+11/29/2018,307,425,15,28,9,18,425,Hazardous
+11/30/2018,343,356,16,27,9,15,356,Hazardous
+12/1/2018,309,274,20,24,10,16,309,Hazardous
+12/2/2018,263,303,23,24,11,15,303,Hazardous
+12/3/2018,248,343,13,24,11,16,343,Hazardous
+12/4/2018,277,447,9,28,9,20,447,Hazardous
+12/5/2018,345,434,10,23,10,16,434,Hazardous
+12/6/2018,311,496,25,18,10,21,496,Hazardous
+12/7/2018,340,378,19,9,9,15,378,Hazardous
+12/8/2018,288,395,17,9,10,16,395,Hazardous
+12/9/2018,289,439,8,10,11,23,439,Hazardous
+12/10/2018,308,443,16,12,10,27,443,Hazardous
+12/11/2018,322,420,7,14,9,23,420,Hazardous
+12/12/2018,279,298,35,11,8,19,298,Very Unhealthy
+12/13/2018,239,128,4,7,8,8,239,Very Unhealthy
+12/14/2018,165,170,27,6,8,9,170,Unhealthy
+12/15/2018,182,184,47,7,8,9,184,Unhealthy
+12/16/2018,186,230,56,7,10,9,230,Very Unhealthy
+12/17/2018,214,445,24,17,11,15,445,Hazardous
+12/18/2018,318,464,32,27,13,16,464,Hazardous
+12/19/2018,360,347,31,28,13,14,360,Hazardous
+12/20/2018,294,459,34,28,13,20,459,Hazardous
+12/21/2018,375,412,28,27,13,18,412,Hazardous
+12/22/2018,365,524,41,33,13,26,524,Hazardous
+12/23/2018,414,711,29,40,13,50,711,Hazardous
+12/24/2018,574,689,21,32,13,32,689,Hazardous
+12/25/2018,514,421,22,23,12,17,514,Hazardous
+12/26/2018,381,441,27,27,14,24,441,Hazardous
+12/27/2018,386,705,24,30,13,43,705,Hazardous
+12/28/2018,570,432,27,22,12,18,570,Hazardous
+12/29/2018,384,512,27,25,13,21,512,Hazardous
+12/30/2018,381,516,21,26,16,25,516,Hazardous
+12/31/2018,437, , , , , ,437,Hazardous
+1/1/2019, ,448,24,28,14,25,448,Hazardous
+1/2/2019,380,649,22,39,14,37,649,Hazardous
+1/3/2019,467,579,17,26,12,21,579,Hazardous
+1/4/2019,495,383,12,21,12,19,495,Hazardous
+1/5/2019,353,486,24,33,12,28,486,Hazardous
+1/6/2019,386,210,27,20,11,12,386,Hazardous
+1/7/2019,245,308,14,19,13,16,308,Hazardous
+1/8/2019,287,263,25,19,13,13,287,Very Unhealthy
+1/9/2019,265,263,31,20,13,13,265,Very Unhealthy
+1/10/2019,232,380,20,21,12,17,380,Hazardous
+1/11/2019,283,579,20,22,14,30,579,Hazardous
+1/12/2019,328,639,23,29,16,35,639,Hazardous
+1/13/2019,345,382,27,21,14,20,382,Hazardous
+1/14/2019,249,297,30,14,14,11,297,Very Unhealthy
+1/15/2019,192,338,24,17,15,16,338,Hazardous
+1/16/2019,225,452,15,32,16,27,452,Hazardous
+1/17/2019,302,644,25,33,15,27,644,Hazardous
+1/18/2019,419,420,22,28,14,19,420,Hazardous
+1/19/2019,296,502,28,30,16,21,502,Hazardous
+1/20/2019,389,521,35,42,15,47,521,Hazardous
+1/21/2019,465,198,14,34,13,18,465,Hazardous
+1/22/2019,264,58,14,23,13,9,264,Very Unhealthy
+1/23/2019,127,126,13,22,10, ,127,Unhealthy for Sensitive Groups
+1/24/2019,170,182,19,24,20,5,182,Unhealthy
+1/25/2019,178,115,21,19,17,4,178,Unhealthy
+1/26/2019,152,136,30,18,14,4,152,Unhealthy
+1/27/2019,179,165,27,20,13,4,179,Unhealthy
+1/28/2019,184,197,31,21,13,4,197,Unhealthy
+1/29/2019,188,262,31,25,13,4,262,Very Unhealthy
+1/30/2019,207,300,26,30,14,6,300,Very Unhealthy
+1/31/2019,252,239,18,33,15,7,252,Very Unhealthy
+2/1/2019,267,146,10,29,15,6,267,Very Unhealthy
+2/2/2019,185,173,14,20,14,5,185,Unhealthy
+2/3/2019,190,102,13,19,14,5,190,Unhealthy
+2/4/2019,162,258,20,23,14,6,258,Very Unhealthy
+2/5/2019,236,596,25,40,16,7,596,Hazardous
+2/6/2019,381,205,19,30,15,6,381,Hazardous
+2/7/2019,248,78,10,20,14,5,248,Very Unhealthy
+2/8/2019,155,159,21,19,15,5,159,Unhealthy
+2/9/2019,178,224,25,18,15,5,224,Very Unhealthy
+2/10/2019,178,372,23,23,14,5,372,Hazardous
+2/11/2019,261,359,24,26,15,6,359,Hazardous
+2/12/2019,274,276,27,28,16,6,276,Very Unhealthy
+2/13/2019,301,238,35,38,15,6,301,Hazardous
+2/14/2019,276,143,10,33,14,6,276,Very Unhealthy
+2/15/2019,222,241,9,23,15,6,241,Very Unhealthy
+2/16/2019,208,209,8,14,17,6,209,Very Unhealthy
+2/17/2019,180,276,20,17,24,6,276,Very Unhealthy
+2/18/2019,188,232,17,25,14,6,232,Very Unhealthy
+2/19/2019,185,135,19,22,15,7,185,Unhealthy
+2/20/2019,184,95,15,27,19,7,184,Unhealthy
+2/21/2019,160,88,14,24,16,7,160,Unhealthy
+2/22/2019,161,87,11,12,17,6,161,Unhealthy
+2/23/2019,153,81,21,14,18,6,153,Unhealthy
+2/24/2019,146,90,25,18,17,6,146,Unhealthy for Sensitive Groups
+2/25/2019,167,80,28,22,17,6,167,Unhealthy
+2/26/2019,154,65,11,26,20,6,154,Unhealthy
+2/27/2019,137,51,5,17,14,5,137,Unhealthy for Sensitive Groups
+2/28/2019,112,314,6,21,15,10,314,Hazardous
+3/1/2019,219,119,20,12,6,6,219,Very Unhealthy
+3/2/2019,124, ,6,29,8,6,124,Unhealthy for Sensitive Groups
+3/3/2019,167, ,11,19,8, ,167,Unhealthy
+3/4/2019,156, ,9,14,7,24,156,Unhealthy
+3/5/2019,178, ,12,14,9,4,178,Unhealthy
+3/6/2019,180, ,14,17,8,14,180,Unhealthy
+3/7/2019,202, ,22,18,8,17,202,Very Unhealthy
+3/8/2019,201,303,18,19,7,7,303,Hazardous
+3/9/2019,199,215,15,13,8,35,215,Very Unhealthy
+3/10/2019,181,219,30,17,7,6,219,Very Unhealthy
+3/11/2019,166,169,31,27,6,6,169,Unhealthy
+3/12/2019,169,120,18,16,9,5,169,Unhealthy
+3/13/2019,163,122,21,22,10,8,163,Unhealthy
+3/14/2019,190,72,8,21,8,8,190,Unhealthy
+3/15/2019,157,68,13,17,8,8,157,Unhealthy
+3/16/2019,164,135,22,15,10,8,164,Unhealthy
+3/17/2019,174,259,24,16,11,8,259,Very Unhealthy
+3/18/2019,221,299,24,20,11,10,299,Very Unhealthy
+3/19/2019,220,313,19,23,12,11,313,Hazardous
+3/20/2019,228,186,25,25,9,7,228,Very Unhealthy
+3/21/2019,167,130,17,12,9,8,167,Unhealthy
+3/22/2019,173,178,24,12,9,5,178,Unhealthy
+3/23/2019,142,167,28,15,8,6,167,Unhealthy
+3/24/2019,138, , , , , ,138,Unhealthy for Sensitive Groups
+3/25/2019, ,133,13,12,8,7,133,Unhealthy for Sensitive Groups
+3/26/2019,136,203,21,14,9,7,203,Very Unhealthy
+3/27/2019,173,206,30,15,10,8,206,Very Unhealthy
+3/28/2019,171,275,27,20,12,11,275,Very Unhealthy
+3/29/2019,219,236,15,20,11,10,236,Very Unhealthy
+3/30/2019,186,208,28,19,9,10,208,Very Unhealthy
+3/31/2019,175,241,39,13,10,6,241,Very Unhealthy
+4/1/2019,155,187,54,15,10,6,187,Unhealthy
+4/2/2019,163,192,70,17,9,8,192,Unhealthy
+4/3/2019,174,255,52,18,11,10,255,Very Unhealthy
+4/4/2019,194,358,34,24,8,13,358,Hazardous
+4/5/2019,213,338,42,22,8,12,338,Hazardous
+4/6/2019,211,306,13,17,10,9,306,Hazardous
+4/7/2019,170,273,4,19,11,11,273,Very Unhealthy
+4/8/2019,209,216,24,17,8,8,216,Very Unhealthy
+4/9/2019,137,240,64,21,11,12,240,Very Unhealthy
+4/10/2019,174,257,24,17,11,9,257,Very Unhealthy
+4/11/2019,176,223,27,15,9,7,223,Very Unhealthy
+4/12/2019,151,226,29,13,11,6,226,Very Unhealthy
+4/13/2019,135,266,22,14,12,8,266,Very Unhealthy
+4/14/2019,154,163,19,10,12,6,163,Unhealthy
+4/15/2019,140,185,21,14,10,8,185,Unhealthy
+4/16/2019,122,199,20,13,8,6,199,Unhealthy
+4/17/2019,105,55,21,12,8,6,105,Unhealthy for Sensitive Groups
+4/18/2019,60,80,25,12,9,6,80,Moderate
+4/19/2019,104,148,29,15,9,8,148,Unhealthy for Sensitive Groups
+4/20/2019,172,193,35,21,9,10,193,Unhealthy
+4/21/2019,194,208,37,18,9,8,208,Very Unhealthy
+4/22/2019,197,259,41,18,9,9,259,Very Unhealthy
+4/23/2019,179,305,37,17,11,9,305,Hazardous
+4/24/2019,199,204,47,19,9,9,204,Very Unhealthy
+4/25/2019,162,200,33,14,7,8,200,Unhealthy
+4/26/2019,158,282,28,14,10,8,282,Very Unhealthy
+4/27/2019,174,390,34,12,11,5,390,Hazardous
+4/28/2019,171,281,34,14,12,6,281,Very Unhealthy
+4/29/2019,170,309,38,19,12,7,309,Hazardous
+4/30/2019,192,239,14,30,10,14,239,Very Unhealthy
+5/1/2019,181,240,65,21,8,14,240,Very Unhealthy
+5/2/2019,172,234,54,14,9,9,234,Very Unhealthy
+5/3/2019,158,102,71,14,10,9,158,Unhealthy
+5/4/2019,134,300,47,15,11,6,300,Very Unhealthy
+5/5/2019,169,287,55,17,13,11,287,Very Unhealthy
+5/6/2019,216,397,64,20,17,15,397,Hazardous
+5/7/2019,239,475,31,25,16,14,475,Hazardous
+5/8/2019,245,513,37,23,13,12,513,Hazardous
+5/9/2019,284,514,50,23,10,9,514,Hazardous
+5/10/2019,257,317,36,16,8,5,317,Hazardous
+5/11/2019,193,267,44,14,7,7,267,Very Unhealthy
+5/12/2019,196,505,53,12,10,8,505,Hazardous
+5/13/2019,272,392,71,18,12,11,392,Hazardous
+5/14/2019,312,140,32,13,6,6,312,Hazardous
+5/15/2019,141,236,25,24,6,11,236,Very Unhealthy
+5/16/2019,198,191,22,16,6,7,198,Unhealthy
+5/17/2019,141,333,18,16,5,7,333,Hazardous
+5/18/2019,154,88,14,12,5,5,154,Unhealthy
+5/19/2019,117,168,2,29,3,6,168,Unhealthy
+5/20/2019,173,153,45,14,6,3,173,Unhealthy
+5/21/2019,129,222,34,17,6,17,222,Very Unhealthy
+5/22/2019,186,200,22,18,6,22,200,Unhealthy
+5/23/2019,162,249,39,19,4,22,249,Very Unhealthy
+5/24/2019,185,96,3,13,6,17,185,Unhealthy
+5/25/2019,114,115,27,10,5,13,115,Unhealthy for Sensitive Groups
+5/26/2019,119,120,35,12,5,11,120,Unhealthy for Sensitive Groups
+5/27/2019,132,167,36,16,6,10,167,Unhealthy
+5/28/2019,146,246,44,17,7,13,246,Very Unhealthy
+5/29/2019,159,254,41,17,8,12,254,Very Unhealthy
+5/30/2019,168,313,36,19,9,15,313,Hazardous
+5/31/2019,182,434,35,19,6,10,434,Hazardous
+6/1/2019,168,287,83,20,8,17,287,Very Unhealthy
+6/2/2019,188,154,41,14,5,15,188,Unhealthy
+6/3/2019,156,242,3,13,5,12,242,Very Unhealthy
+6/4/2019,140,131,29,13,6,14,140,Unhealthy for Sensitive Groups
+6/5/2019,124,156,19,16,4,15,156,Unhealthy
+6/6/2019,155,202,26,14,6,10,202,Very Unhealthy
+6/7/2019,153,109,54,10,4,16,153,Unhealthy
+6/8/2019,118,221,32,13,7,18,221,Very Unhealthy
+6/9/2019,147,524,2,19,10,31,524,Hazardous
+6/10/2019,189, , , , , ,189,Unhealthy
+6/11/2019, ,685,14,7,8,12,685,Hazardous
+6/12/2019,197,237,24,9,7,12,237,Very Unhealthy
+6/13/2019,142,150,15,6,7,15,150,Unhealthy for Sensitive Groups
+6/14/2019,120,196,43,4,8,15,196,Unhealthy
+6/15/2019,144,299,35,6,9,15,299,Very Unhealthy
+6/16/2019,179,127,11,1,7,9,179,Unhealthy
+6/17/2019,94,117,12,3,6,9,117,Unhealthy for Sensitive Groups
+6/18/2019,99,59,19,2,6,8,99,Moderate
+6/19/2019,63,176,12,5,6,13,176,Unhealthy
+6/20/2019,165,84,23,3,6,9,165,Unhealthy
+6/21/2019,93,126,8,6,10,15,126,Unhealthy for Sensitive Groups
+6/22/2019,153,130,21,3,8,13,153,Unhealthy
+6/23/2019,152,93,8,3,6,11,152,Unhealthy
+6/24/2019,102,79,5,3,7,11,102,Unhealthy for Sensitive Groups
+6/25/2019,63,103,9,4,7,15,103,Unhealthy for Sensitive Groups
+6/26/2019,134,147,5,3,7,17,147,Unhealthy for Sensitive Groups
+6/27/2019,143,244,8,3,6,13,244,Very Unhealthy
+6/28/2019,153,291,4,4,7,9,291,Very Unhealthy
+6/29/2019,160,240,2,8,6,6,240,Very Unhealthy
+6/30/2019,136,244,4,7,6,14,244,Very Unhealthy
+7/1/2019,139,117,6,7,7,14,139,Unhealthy for Sensitive Groups
+7/2/2019,114,160,26,6,6,16,160,Unhealthy
+7/3/2019,145,90,12,9,6,16,145,Unhealthy for Sensitive Groups
+7/4/2019,103,65,4,9,7,17,103,Unhealthy for Sensitive Groups
+7/5/2019,84,84,6,11,6,17,84,Moderate
+7/6/2019,126,92,5,10,6,17,126,Unhealthy for Sensitive Groups
+7/7/2019,106,82,4,7,5,16,106,Unhealthy for Sensitive Groups
+7/8/2019,107,121,4,8,6,15,121,Unhealthy for Sensitive Groups
+7/9/2019,125,106,4,8,6,15,125,Unhealthy for Sensitive Groups
+7/10/2019,106,117,4,9,6,15,117,Unhealthy for Sensitive Groups
+7/11/2019,120,565,7,15,5,14,565,Hazardous
+7/12/2019,174,388,6,11,4,19,388,Hazardous
+7/13/2019,152,308,7,8,5,15,308,Hazardous
+7/14/2019,139,269,7,8,7,14,269,Very Unhealthy
+7/15/2019,148,115,5,9,6,14,148,Unhealthy for Sensitive Groups
+7/16/2019,102,71,15,9,5,13,102,Unhealthy for Sensitive Groups
+7/17/2019,83,56,14,8,6,12,83,Moderate
+7/18/2019,79,57,17,10,5,15,79,Moderate
+7/19/2019,75,126,53,14,6,23,126,Unhealthy for Sensitive Groups
+7/20/2019,148,102,13,15,5,19,148,Unhealthy for Sensitive Groups
+7/21/2019,128,82,8,9,6,21,128,Unhealthy for Sensitive Groups
+7/22/2019,112,98,20,12,6,16,112,Unhealthy for Sensitive Groups
+7/23/2019,124,134,26,13,4,27,134,Unhealthy for Sensitive Groups
+7/24/2019,152,127,6,12,6,23,152,Unhealthy
+7/25/2019,126,67,8,8,6,15,126,Unhealthy for Sensitive Groups
+7/26/2019,53,56,5,9,7,15,56,Moderate
+7/27/2019,88,42,11,9,6,12,88,Moderate
+7/28/2019,75,53,6,7,5,22,75,Moderate
+7/29/2019,67,66,40,8,5,19,67,Moderate
+7/30/2019,68,75,24,9,5,17,75,Moderate
+7/31/2019,84,70,14,8,4,16,84,Moderate
+8/1/2019,85,77,4,10,6,14,85,Moderate
+8/2/2019,92,71,3,9,6,24,92,Moderate
+8/3/2019,86,66,16,11,7,17,86,Moderate
+8/4/2019,112,68,28,9,7,19,112,Unhealthy for Sensitive Groups
+8/5/2019,137,85,9,14,7,20,137,Unhealthy for Sensitive Groups
+8/6/2019,134,66,10,13,6,17,134,Unhealthy for Sensitive Groups
+8/7/2019,103,76,15,11,6,18,103,Unhealthy for Sensitive Groups
+8/8/2019,113,89,19,11,8,16,113,Unhealthy for Sensitive Groups
+8/9/2019,91,72,14,7,6,13,91,Moderate
+8/10/2019,49,63,3,7,5,14,63,Moderate
+8/11/2019,54,64,8,7,7,13,64,Moderate
+8/12/2019,70,49,4,7,6,14,70,Moderate
+8/13/2019,55,48,4,7,6,14,55,Moderate
+8/14/2019,64,44,5,8,6,17,64,Moderate
+8/15/2019,90,43,6,5,6,15,90,Moderate
+8/16/2019,84,39,10,7,6,15,84,Moderate
+8/17/2019,54,21,4,6,6,14,54,Moderate
+8/18/2019,35,17,3,5,5,14,35,Good
+8/19/2019,35,73,5,8,6,19,73,Moderate
+8/20/2019,105,73,4,5,5,16,105,Unhealthy for Sensitive Groups
+8/21/2019,100,112,4,7,5,16,112,Unhealthy for Sensitive Groups
+8/22/2019,121,115,4,10,6,16,121,Unhealthy for Sensitive Groups
+8/23/2019,120,130,6,9,5,16,130,Unhealthy for Sensitive Groups
+8/24/2019,129,141,4,11,6,17,141,Unhealthy for Sensitive Groups
+8/25/2019,140,64,4,8,5,16,140,Unhealthy for Sensitive Groups
+8/26/2019,92,63,5,8,6,17,92,Moderate
+8/27/2019,77,102,10,11,5,17,102,Unhealthy for Sensitive Groups
+8/28/2019,114,93,9,11,5,16,114,Unhealthy for Sensitive Groups
+8/29/2019,110,83,7,10,5,15,110,Unhealthy for Sensitive Groups
+8/30/2019,94,116,12,12,5,16,116,Unhealthy for Sensitive Groups
+8/31/2019,133,137,7,13,5,18,137,Unhealthy for Sensitive Groups
+9/1/2019,154,85,13,11,5,17,154,Unhealthy
+9/2/2019,103,80,14,8,5,15,103,Unhealthy for Sensitive Groups
+9/3/2019,118,111,5,8,5,15,118,Unhealthy for Sensitive Groups
+9/4/2019,162,125,16,12,5,18,162,Unhealthy
+9/5/2019,167,77,4,10,5,16,167,Unhealthy
+9/6/2019,110,87,10,10,6,16,110,Unhealthy for Sensitive Groups
+9/7/2019,107,85,3,10,5,16,107,Unhealthy for Sensitive Groups
+9/8/2019,98,79,11,7,5,14,98,Moderate
+9/9/2019,101,119,4,7,5,14,119,Unhealthy for Sensitive Groups
+9/10/2019,155,129,6,8,5,15,155,Unhealthy
+9/11/2019,156,146,6,12,5,17,156,Unhealthy
+9/12/2019,168,111,5,13,5,16,168,Unhealthy
+9/13/2019,148,80,7,9,5,15,148,Unhealthy for Sensitive Groups
+9/14/2019,103,71,11,7,5,14,103,Unhealthy for Sensitive Groups
+9/15/2019,81,68,16,8,5,15,81,Moderate
+9/16/2019,106,117,6,9,5,16,117,Unhealthy for Sensitive Groups
+9/17/2019,148,99,21,10,5,15,148,Unhealthy for Sensitive Groups
+9/18/2019,132,90,9,11,6,14,132,Unhealthy for Sensitive Groups
+9/19/2019,114,59,4,7,4,13,114,Unhealthy for Sensitive Groups
+9/20/2019,66,80,7,10,5,14,80,Moderate
+9/21/2019,99,103,7,9,5,14,103,Unhealthy for Sensitive Groups
+9/22/2019,135,63,10,10,5,14,135,Unhealthy for Sensitive Groups
+9/23/2019,77,79,13,10,5,14,79,Moderate
+9/24/2019,107,84,15,11,5,14,107,Unhealthy for Sensitive Groups
+9/25/2019,104,75,11,10,5,14,104,Unhealthy for Sensitive Groups
+9/26/2019,92,65,53,9,5,14,92,Moderate
+9/27/2019,72,54,24,11,4,13,72,Moderate
+9/28/2019,52,64,55,19,4,10,64,Moderate
+9/29/2019,75,48,4,8,3,5,75,Moderate
+9/30/2019,59,63,7,11,3,8,63,Moderate
+10/1/2019,82,76,9,12,4,8,82,Moderate
+10/2/2019,93,87,2,8,2,12,93,Moderate
+10/3/2019,113,170,4,11,3,17,170,Unhealthy
+10/4/2019,148,77,3,9,2,9,148,Unhealthy for Sensitive Groups
+10/5/2019,115,118,3,8,3,8,118,Unhealthy for Sensitive Groups
+10/6/2019,114,118,3,8,3,8,118,Unhealthy for Sensitive Groups
+10/7/2019,149,126,3,6,4,8,149,Unhealthy for Sensitive Groups
+10/8/2019,140,93,8,7,2,7,140,Unhealthy for Sensitive Groups
+10/9/2019,119,176,7,14,4,12,176,Unhealthy
+10/10/2019,162,196,10,14,3,12,196,Unhealthy
+10/11/2019,195,166,2,12,4,9,195,Unhealthy
+10/12/2019,170,210,3,12,3,10,210,Very Unhealthy
+10/13/2019,190,203,6,12,4,11,203,Very Unhealthy
+10/14/2019,220,232,6,14,4,11,232,Very Unhealthy
+10/15/2019,190,304,6,21,6,18,304,Hazardous
+10/16/2019,211,275,11,21,5,18,275,Very Unhealthy
+10/17/2019,233,170,32,21,4,14,233,Very Unhealthy
+10/18/2019,194,123,3,14,5,10,194,Unhealthy
+10/19/2019,161,131,5,14,4,9,161,Unhealthy
+10/20/2019,162,147,16,13,3,9,162,Unhealthy
+10/21/2019,186,184,23,13,4,10,186,Unhealthy
+10/22/2019,197,211,13,14,5,11,211,Very Unhealthy
+10/23/2019,187,298,13,14,4,14,298,Very Unhealthy
+10/24/2019,210,534,26,18,4,25,534,Hazardous
+10/25/2019,294,351,33,17,4,17,351,Hazardous
+10/26/2019,212,300,14,16,4,19,300,Very Unhealthy
+10/27/2019,229,249,14,14,4,14,249,Very Unhealthy
+10/28/2019,267,214,7,13,4,13,267,Very Unhealthy
+10/29/2019,292,299,11,16,5,22,299,Very Unhealthy
+10/30/2019,340,426,3,15,5,23,426,Hazardous
+10/31/2019,346,504,3,18,6,30,504,Hazardous
+11/1/2019,400,568,6,19,6,23,568,Hazardous
+11/2/2019,461,412,3,13,8,26,461,Hazardous
+11/3/2019,376,634,3,14,4,26,634,Hazardous
+11/4/2019,611,282,5,12,4,15,611,Hazardous
+11/5/2019,314,232,10,13,4,14,314,Hazardous
+11/6/2019,265,147,23,17,4,13,265,Very Unhealthy
+11/7/2019,183,184,4,18,4,16,184,Unhealthy
+11/8/2019,242,154,3,13,4,12,242,Very Unhealthy
+11/9/2019,219,190,12,11,3,11,219,Very Unhealthy
+11/10/2019,237,229,23,13,3,11,237,Very Unhealthy
+11/11/2019,283,304,29,16,4,13,304,Hazardous
+11/12/2019,337,546,33,18,6,19,546,Hazardous
+11/13/2019,484,519,27,18,6,19,519,Hazardous
+11/14/2019,497,447,28,20,7,20,497,Hazardous
+11/15/2019,421,447,20,17,7,19,447,Hazardous
+11/16/2019,457,262,15,11,6,14,457,Hazardous
+11/17/2019,300,123,11,9,6,14,300,Very Unhealthy
+11/18/2019,182,146,14,12,6,9,182,Unhealthy
+11/19/2019,198,185,14,16,6,9,198,Unhealthy
+11/20/2019,208,235,19,18,6,10,235,Very Unhealthy
+11/21/2019,256,331,30,22,5,13,331,Hazardous
+11/22/2019,307,297,27,19,6,9,307,Hazardous
+11/23/2019,297,165,13,14,6,6,297,Very Unhealthy
+11/24/2019,228,126,18,10,6,6,228,Very Unhealthy
+11/25/2019,200,200,16,15,6,8,200,Unhealthy
+11/26/2019,225,162,20,18,6,8,225,Very Unhealthy
+11/27/2019,184,94,10,14,6,5,184,Unhealthy
+11/28/2019,150,46,10,11,6,2,150,Unhealthy for Sensitive Groups
+11/29/2019,91,78,14,12,6,6,91,Moderate
+11/30/2019,136,150,11,13,5,11,150,Unhealthy for Sensitive Groups
+12/1/2019,200,147,24,13,7,15,200,Unhealthy
+12/2/2019,227,187,27,14,6,7,227,Very Unhealthy
+12/3/2019,219,244,31,17,6,8,244,Very Unhealthy
+12/4/2019,235,270,28,17,7,13,270,Very Unhealthy
+12/5/2019,242,361,32,18,7,23,361,Hazardous
+12/6/2019,343,292,18,17,7,10,343,Hazardous
+12/7/2019,339,313,21,18,6,23,339,Hazardous
+12/8/2019,343,240,19,16,7,40,343,Hazardous
+12/9/2019,315,238,29,16,6,29,315,Hazardous
+12/10/2019,295,327,29,17,7,33,327,Hazardous
+12/11/2019,346,555,23,25,8,64,555,Hazardous
+12/12/2019,437,383,21,20,6,38,437,Hazardous
+12/13/2019,380,84,11,13,5,17,380,Hazardous
+12/14/2019,173,101,14,13,5,11,173,Unhealthy
+12/15/2019,175,101,11,11,5,9,175,Unhealthy
+12/16/2019,179,92,9,10,6,8,179,Unhealthy
+12/17/2019, ,108,10,11,6,9,108,Unhealthy for Sensitive Groups
+12/18/2019,215,175,19,12,6,11,215,Very Unhealthy
+12/19/2019,229,353,19,16,7,20,353,Hazardous
+12/20/2019,367,314,5,15,6,17,367,Hazardous
+12/21/2019,365,220,4,12,5,14,365,Hazardous
+12/22/2019,304,121,7,10,6,11,304,Hazardous
+12/23/2019,213,166,8,11,5,12,213,Very Unhealthy
+12/24/2019,234,328,10,15,5,17,328,Hazardous
+12/25/2019,356,180,6,10,5,10,356,Hazardous
+12/26/2019,237,241,8,11,6,12,241,Very Unhealthy
+12/27/2019,290,278,11,12,6,12,290,Very Unhealthy
+12/28/2019,316,286,9,13,7,17,316,Hazardous
+12/29/2019,318,357,18,16,6,15,357,Hazardous
+12/30/2019,365, , , , , ,365,Hazardous
+1/1/2020, ,494, ,18,7,37,494,Hazardous
+1/2/2020,472,372, ,19,8,37,472,Hazardous
+1/3/2020,375,225, ,18,6,18,375,Hazardous
+1/4/2020,275,279, ,17,5,16,279,Very Unhealthy
+1/5/2020,315,162, ,15,5,9,315,Hazardous
+1/6/2020,247,158, ,15,5,11,247,Very Unhealthy
+1/7/2020,237,134,21,23,6,15,237,Very Unhealthy
+1/8/2020,209,91,9,16,6,11,209,Very Unhealthy
+1/9/2020,182,93,19,12,7,12,182,Unhealthy
+1/10/2020,179,147,32,17,11,17,179,Unhealthy
+1/11/2020,216,263,40,21,9,15,263,Very Unhealthy
+1/12/2020,270,310,29,21,8,16,310,Hazardous
+1/13/2020,303,233,18,24,6,16,303,Hazardous
+1/14/2020,267,87,19,13,6,8,267,Very Unhealthy
+1/15/2020,173,135,26,16,7,9,173,Unhealthy
+1/16/2020,209,111,12,15,6,8,209,Very Unhealthy
+1/17/2020,195,108,15,12,7,9,195,Unhealthy
+1/18/2020,192,124,18,16,4,11,192,Unhealthy
+1/19/2020,200,120,28,12,4,8,200,Unhealthy
+1/20/2020,196,200,21,15,4,13,200,Unhealthy
+1/21/2020,238,412,22,22,4,23,412,Hazardous
+1/22/2020,399,201,17,18,4,15,399,Hazardous
+1/23/2020,257,110,36,14,2,6,257,Very Unhealthy
+1/24/2020,158,151,40,19,2,8,158,Unhealthy
+1/25/2020,180,238,38,22,1,10,238,Very Unhealthy
+1/26/2020,225,279,36,21,2,12,279,Very Unhealthy
+1/27/2020,283,263,24,31,2,18,283,Very Unhealthy
+1/28/2020,277,100,18,22,1,11,277,Very Unhealthy
+1/29/2020,182,91,30,11,3,7,182,Unhealthy
+1/30/2020,168,131,26,11,3,9,168,Unhealthy
+1/31/2020,198,179,22,17,5,12,198,Unhealthy
+2/1/2020,215,146,33,18,3,11,215,Very Unhealthy
+2/2/2020,192,164,33,20,3,10,192,Unhealthy
+2/3/2020,230,224,44,24,4,13,230,Very Unhealthy
+2/4/2020,238,371,51,32,4,20,371,Hazardous
+2/5/2020,296,257,34,24,8,12,296,Very Unhealthy
+2/6/2020,247,178,40,23,5,10,247,Very Unhealthy
+2/7/2020,222,229,39,24,7,12,229,Very Unhealthy
+2/8/2020,247,196,40,21,13,10,247,Very Unhealthy
+2/9/2020,252,199,46,23,14,13,252,Very Unhealthy
+2/10/2020,268,237,45,26,11,13,268,Very Unhealthy
+2/11/2020,272,299,44,30,12,13,299,Very Unhealthy
+2/12/2020,313,268,42,25,13,9,313,Hazardous
+2/13/2020,267,139,36,22,9,8,267,Very Unhealthy
+2/14/2020,184,154,36,19,5,5,184,Unhealthy
+2/15/2020,165,133,48,21,6,6,165,Unhealthy
+2/16/2020,169,183,45,24,22,10,183,Unhealthy
+2/17/2020,235,281,39,27,22,11,281,Very Unhealthy
+2/18/2020,282,214,44,26,29, ,282,Very Unhealthy
+2/19/2020,258,157,40,26,14,9,258,Very Unhealthy
+2/20/2020,235,162,43,21,3,11,235,Very Unhealthy
+2/21/2020,173,75,28,13,4,5,173,Unhealthy
+2/22/2020,145,112,20,13,8,22,145,Unhealthy for Sensitive Groups
+2/23/2020,172,117,11,10,7, ,172,Unhealthy
+2/24/2020,193,126,23,11,14,6,193,Unhealthy
+2/25/2020,177,216,21,12,27,11,216,Very Unhealthy
+2/26/2020,274,244,23,13,13,11,274,Very Unhealthy
+2/27/2020,245,143,34,11,4,10,245,Very Unhealthy
+2/28/2020,183,115,30,12,5,7,183,Unhealthy
+2/29/2020,171,80,30,24,2,7,171,Unhealthy
+3/1/2020,142,67,28,22,5,11,142,Unhealthy for Sensitive Groups
+3/2/2020,103,151,21,22,8,13,151,Unhealthy
+3/3/2020,190,148,15,23,3,8,190,Unhealthy
+3/4/2020,156,133,10,14,5,5,156,Unhealthy
+3/5/2020,149,80,11,18,4,4,149,Unhealthy for Sensitive Groups
+3/6/2020,96,38,14,19,4,6,96,Moderate
+3/7/2020,73,70,25,14,5,6,73,Moderate
+3/8/2020,113,100,29,14,7,8,113,Unhealthy for Sensitive Groups
+3/9/2020,161,103,32,12,7,5,161,Unhealthy
+3/10/2020,144,115,53,13,6,5,144,Unhealthy for Sensitive Groups
+3/11/2020,167,83,36,16,5,5,167,Unhealthy
+3/12/2020,141,124,31,20,5,7,141,Unhealthy for Sensitive Groups
+3/13/2020,141,189,36,20,8,5,189,Unhealthy
+3/14/2020,170,76,17,17,6,4,170,Unhealthy
+3/15/2020,120,114,45,17,9,6,120,Unhealthy for Sensitive Groups
+3/16/2020,177,127,35,14,14,5,177,Unhealthy
+3/17/2020,167,133,38,14,15,6,167,Unhealthy
+3/18/2020,174,143,37,14,18,7,174,Unhealthy
+3/19/2020,176,187,31,20,15,8,187,Unhealthy
+3/20/2020,208,143,56,26,9,9,208,Very Unhealthy
+3/21/2020,169,172,35,18,19,7,172,Unhealthy
+3/22/2020,185,96,33,13,10,6,185,Unhealthy
+3/23/2020,158,74,37,11,9,4,158,Unhealthy
+3/24/2020,131,70,30,11,7,5,131,Unhealthy for Sensitive Groups
+3/25/2020,129,61,6,7,4,4,129,Unhealthy for Sensitive Groups
+3/26/2020,121,74,12,5,7,4,121,Unhealthy for Sensitive Groups
+3/27/2020,139,38,16,5,5,3,139,Unhealthy for Sensitive Groups
+3/28/2020,81,31,5,4,4,6,81,Moderate
+3/29/2020,73,60,22,4,5,4,73,Moderate
+3/30/2020,108,66,26,5,7,4,108,Unhealthy for Sensitive Groups
+3/31/2020,126,61,22,6,7,3,126,Unhealthy for Sensitive Groups
+4/1/2020,114,63,24,6,8,4,114,Unhealthy for Sensitive Groups
+4/2/2020,113,60,27,4,5,3,113,Unhealthy for Sensitive Groups
+4/3/2020,100,74,35,6,9,4,100,Moderate
+4/4/2020,123,79,34,7,8,4,123,Unhealthy for Sensitive Groups
+4/5/2020,131,85,30,9,9,5,131,Unhealthy for Sensitive Groups
+4/6/2020,141,88,32,8,7,5,141,Unhealthy for Sensitive Groups
+4/7/2020,137,87,22,6,9,3,137,Unhealthy for Sensitive Groups
+4/8/2020,113,72,32,5,7,3,113,Unhealthy for Sensitive Groups
+4/9/2020,103,82,38,9,10,5,103,Unhealthy for Sensitive Groups
+4/10/2020,130,99,37,10,10,6,130,Unhealthy for Sensitive Groups
+4/11/2020,142,100,40,10,7,6,142,Unhealthy for Sensitive Groups
+4/12/2020,137,92,35,8,12,4,137,Unhealthy for Sensitive Groups
+4/13/2020,131,119,37,10,14,6,131,Unhealthy for Sensitive Groups
+4/14/2020,151,137,42,13,15,7,151,Unhealthy
+4/15/2020,169,127,31,12,7,5,169,Unhealthy
+4/16/2020,137,143,40,10,12,4,143,Unhealthy for Sensitive Groups
+4/17/2020,146,78,38,8,6,3,146,Unhealthy for Sensitive Groups
+4/18/2020,83,72,40,8,6,3,83,Moderate
+4/19/2020,80,60,35,8,5,4,80,Moderate
+4/20/2020,105,101,40,12,4,5,105,Unhealthy for Sensitive Groups
+4/21/2020,130, , , , , ,130,Unhealthy for Sensitive Groups
+4/22/2020, ,98,27,12,7,7,98,Moderate
+4/23/2020,103,98,34,13,8,6,103,Unhealthy for Sensitive Groups
+4/24/2020,121,92,48,13,6,7,121,Unhealthy for Sensitive Groups
+4/25/2020,144,70,38,9,5,5,144,Unhealthy for Sensitive Groups
+4/26/2020,64,68,28,9,5,4,68,Moderate
+4/27/2020,81,36,28,8,5,4,81,Moderate
+4/28/2020,78, , , , , ,78,Moderate
+4/30/2020, ,87,43,9,10,7,87,Moderate
+5/1/2020,124,101,48,7,6,6,124,Unhealthy for Sensitive Groups
+5/2/2020,146,77,46, ,4,5,146,Unhealthy for Sensitive Groups
+5/3/2020,92,71,36, ,4,4,92,Moderate
+5/4/2020,82,45,40, ,6,5,82,Moderate
+5/5/2020,81,89,52, ,6,6,89,Moderate
+5/6/2020,136,122,45, ,6,5,136,Unhealthy for Sensitive Groups
+5/7/2020,133,61,57, ,6,4,133,Unhealthy for Sensitive Groups
+5/8/2020,84,85,62, ,6,5,85,Moderate
+5/9/2020,130,86,59, ,7,6,130,Unhealthy for Sensitive Groups
+5/10/2020,134,85,29, ,6,5,134,Unhealthy for Sensitive Groups
+5/11/2020,114,69,41,15,5,6,114,Unhealthy for Sensitive Groups
+5/12/2020,110,73,54,10,6,5,110,Unhealthy for Sensitive Groups
+5/13/2020,119,114,22,12,8,6,119,Unhealthy for Sensitive Groups
+5/14/2020,157,122,57,14,6,6,157,Unhealthy
+5/15/2020,143,83,44,15,8,9,143,Unhealthy for Sensitive Groups
+5/16/2020,132,118,52,23,14,7,132,Unhealthy for Sensitive Groups
+5/17/2020,176,155,71,32,17,8,176,Unhealthy
+5/18/2020,192,166,62,31,16,7,192,Unhealthy
+5/19/2020,193,239,56,40,20,9,239,Very Unhealthy
+5/20/2020,226,149,58,27,13,5,226,Very Unhealthy
+5/21/2020,159,161,48,32,11,5,161,Unhealthy
+5/22/2020,136,197,64,47,19,9,197,Unhealthy
+5/23/2020,174,160,37,38,8,5,174,Unhealthy
+5/24/2020,144,140,44,26,11,4,144,Unhealthy for Sensitive Groups
+5/25/2020,131,151,45,32,15,6,151,Unhealthy
+5/26/2020,145,171,39,36,9,6,171,Unhealthy
+5/27/2020,136,136,49,31,4,5,136,Unhealthy for Sensitive Groups
+5/28/2020,111,148,31,21,5,3,148,Unhealthy for Sensitive Groups
+5/29/2020,91,53,28,19,1,4,91,Moderate
+5/30/2020,64,52,39,20,2,4,64,Moderate
+5/31/2020,72,33,28,18,4,3,72,Moderate
+6/1/2020,58,65,54,22,2,5,65,Moderate
+6/2/2020,109,77,41,23,2,5,109,Unhealthy for Sensitive Groups
+6/3/2020,104,93,52,23,7,5,104,Unhealthy for Sensitive Groups
+6/4/2020,128,126,54,31,9,7,128,Unhealthy for Sensitive Groups
+6/5/2020,175,78,29,28,3,6,175,Unhealthy
+6/6/2020,112,70,38,24,2,5,112,Unhealthy for Sensitive Groups
+6/7/2020,99,63,34,22,3,4,99,Moderate
+6/8/2020,105,86,43,28,4,6,105,Unhealthy for Sensitive Groups
+6/9/2020,121,122,32,31,4,7,122,Unhealthy for Sensitive Groups
+6/10/2020,141,115,34,27,1,6,141,Unhealthy for Sensitive Groups
+6/11/2020,123,100,31,23,4,5,123,Unhealthy for Sensitive Groups
+6/12/2020,115,152,23,22,4,7,152,Unhealthy
+6/13/2020,151,107,28,12,4,6,151,Unhealthy
+6/14/2020,131,109,35,13,5,8,131,Unhealthy for Sensitive Groups
+6/15/2020,154,105,41,12,4,6,154,Unhealthy
+6/16/2020,124,90,50,12,5,7,124,Unhealthy for Sensitive Groups
+6/17/2020,107,74,47,9,4,6,107,Unhealthy for Sensitive Groups
+6/18/2020,87,76,10,9,4,6,87,Moderate
+6/19/2020,91,213,7,8,5,6,213,Very Unhealthy
+6/20/2020,136,93,17,9,3,5,136,Unhealthy for Sensitive Groups
+6/21/2020,89,73,6,11,2,6,89,Moderate
+6/22/2020,101,67,8,11,4,6,101,Unhealthy for Sensitive Groups
+6/23/2020,100,61,6,9,4,5,100,Moderate
+6/24/2020,76,56,6,9,5,6,76,Moderate
+6/25/2020,78,70,5,9,3,6,78,Moderate
+6/26/2020,112,102,7,9,4,6,112,Unhealthy for Sensitive Groups
+6/27/2020,127,152,4,8,2,4,152,Unhealthy
+6/28/2020,117,304,4,7,3,5,304,Hazardous
+6/29/2020,135,154,5,6,5,5,154,Unhealthy
+6/30/2020,102,76,6,7,6,6,102,Unhealthy for Sensitive Groups
+7/1/2020,113,92,5,8,6,6,113,Unhealthy for Sensitive Groups
+7/2/2020,134,106,6,9,10,7,134,Unhealthy for Sensitive Groups
+7/3/2020,150,106,5,11,5,7,150,Unhealthy for Sensitive Groups
+7/4/2020,145,78,5,8,3,6,145,Unhealthy for Sensitive Groups
+7/5/2020,117,91,13,6,6,4,117,Unhealthy for Sensitive Groups
+7/6/2020,107,76,3,13,3,7,107,Unhealthy for Sensitive Groups
+7/7/2020,106,42,4,8,4,5,106,Unhealthy for Sensitive Groups
+7/8/2020,55,44,20,5,2,8,55,Moderate
+7/9/2020,80,61,6, ,1,6,80,Moderate
+7/10/2020,96,76,2,7,3,5,96,Moderate
+7/11/2020,83,56,2,8,2,5,83,Moderate
+7/12/2020,66,48,5,6,1,4,66,Moderate
+7/13/2020,67,96,5,7,3,4,96,Moderate
+7/14/2020,96,101,2,7,2,5,101,Unhealthy for Sensitive Groups
+7/15/2020,102,90,10,8,3,6,102,Unhealthy for Sensitive Groups
+7/16/2020,123,64,6,8,3,6,123,Unhealthy for Sensitive Groups
+7/17/2020,97,71,7,8,3,7,97,Moderate
+7/18/2020,128,76,5,9,2,7,128,Unhealthy for Sensitive Groups
+7/19/2020,127,41,38,7,4,4,127,Unhealthy for Sensitive Groups
+7/20/2020,74,38,5,7,3, ,74,Moderate
+7/21/2020,57,34,4,9,2, ,57,Moderate
+7/22/2020,67,34,4,7,1, ,67,Moderate
+7/23/2020,74,62,7,9,3, ,74,Moderate
+7/24/2020,105,84,14,13,1, ,105,Unhealthy for Sensitive Groups
+7/25/2020,129,63,6,8,3, ,129,Unhealthy for Sensitive Groups
+7/26/2020,99,73,8,11,3, ,99,Moderate
+7/27/2020,119,92,4,9,1,5,119,Unhealthy for Sensitive Groups
+7/28/2020,104,83,4,6,2,4,104,Unhealthy for Sensitive Groups
+7/29/2020,77,78,3,10,3,6,78,Moderate
+7/30/2020,75,44,7,9,1,4,75,Moderate
+7/31/2020,58,83,7,11,2,10,83,Moderate
+8/1/2020,124,76,4,10,3,9,124,Unhealthy for Sensitive Groups
+8/2/2020,108,62,3,7,4,8,108,Unhealthy for Sensitive Groups
+8/3/2020,74,58,3,7,1,7,74,Moderate
+8/4/2020,69,65,4,7,1,7,69,Moderate
+8/5/2020,75,82,16,10,1,8,82,Moderate
+8/6/2020,117,56,8,8,2,8,117,Unhealthy for Sensitive Groups
+8/7/2020,64,52,10,8,1,8,64,Moderate
+8/8/2020,75,99,10,12,3,10,99,Moderate
+8/9/2020,155,47,8,8,1,9,155,Unhealthy
+8/10/2020,93,59,11,8,1,8,93,Moderate
+8/11/2020,110,58,8,11,3,11,110,Unhealthy for Sensitive Groups
+8/12/2020,110,58,7,7,3,7,110,Unhealthy for Sensitive Groups
+8/13/2020,68,23,15,8,2,7,68,Moderate
+8/14/2020,50,47,7,8,3,10,50,Good
+8/15/2020,82,55,6,7,1,10,82,Moderate
+8/16/2020,96,47,3,8,1,14,96,Moderate
+8/17/2020,69,55,14,13,3,15,69,Moderate
+8/18/2020,81,64,4,11,1,10,81,Moderate
+8/19/2020,84,53,19,15,5,16,84,Moderate
+8/20/2020,88,34,10,11,5,11,88,Moderate
+8/21/2020,68,58,8,10, ,14,68,Moderate
+8/22/2020,72,54,21,7, ,13,72,Moderate
+8/23/2020,48,47,11,6,6,16,48,Good
+8/24/2020,53,54,11,10,10,10,54,Moderate
+8/25/2020,48,63,4,9,8,11,63,Moderate
+8/26/2020,46,60,6,8,2,15,60,Moderate
+8/27/2020,41,76,7,6,3,8,76,Moderate
+8/28/2020,48,81,22,11,2,11,81,Moderate
+8/29/2020,91,74,10,13,4,14,91,Moderate
+8/30/2020,118,57,8,6,3,9,118,Unhealthy for Sensitive Groups
+8/31/2020,61,41,4,7,3,9,61,Moderate
+9/1/2020,36,59,5,9,3,8,59,Moderate
+9/2/2020,55,77,25,11,5,10,77,Moderate
+9/3/2020,83,83,5,11,3,12,83,Moderate
+9/4/2020,98,69,6,10,5,9,98,Moderate
+9/5/2020,109, , ,13,4,4,109,Unhealthy for Sensitive Groups
+9/7/2020, , , ,22,2,10,22,Good
+9/8/2020,89, , , , , ,89,Moderate
+9/9/2020, ,92,5,9,11,10,92,Moderate
+9/10/2020,131,111,15,12,4,11,131,Unhealthy for Sensitive Groups
+9/11/2020,135,125,29,16,6,10,135,Unhealthy for Sensitive Groups
+9/12/2020,142,133,5,13,6,11,142,Unhealthy for Sensitive Groups
+9/13/2020,145,109,19,8,4,4,145,Unhealthy for Sensitive Groups
+9/14/2020,160,113,4,9,3,4,160,Unhealthy
+9/15/2020,156,130,6,10,4,5,156,Unhealthy
+9/16/2020,161,139,21,12,2,5,161,Unhealthy
+9/17/2020,155,118,10,10,5,3,155,Unhealthy
+9/18/2020,132,111,11,9,3,3,132,Unhealthy for Sensitive Groups
+9/19/2020,121,111,4,8,7,4,121,Unhealthy for Sensitive Groups
+9/20/2020,151,107,7,7,5,4,151,Unhealthy
+9/21/2020,157,113,7,7,13,3,157,Unhealthy
+9/22/2020,154,89,10,11,6,5,154,Unhealthy
+9/23/2020,121,78,9,12,5,4,121,Unhealthy for Sensitive Groups
+9/24/2020,86,101,6,10,8,5,101,Unhealthy for Sensitive Groups
+9/25/2020,113,147,23,14,5,5,147,Unhealthy for Sensitive Groups
+9/26/2020,155,174,5,14,4,4,174,Unhealthy
+9/27/2020,141,106,13,11,3,3,141,Unhealthy for Sensitive Groups
+9/28/2020,106,183,16,12,4,4,183,Unhealthy
+9/29/2020,153,181,16,12,3,5,181,Unhealthy
+9/30/2020,162,158,17,11,4,4,162,Unhealthy
+10/1/2020,151,200,20,12,4,4,200,Unhealthy
+10/2/2020,153,142,29,6,6,4,153,Unhealthy
+10/3/2020,164,196,19,8,7,5,196,Unhealthy
+10/4/2020,168,143,42,7,6,5,168,Unhealthy
+10/5/2020,162,214,42,8,4,4,214,Very Unhealthy
+10/6/2020,159,206,41,9,5,4,206,Very Unhealthy
+10/7/2020,168,248,48,10,8,6,248,Very Unhealthy
+10/8/2020,180,181,45,9,8,5,181,Unhealthy
+10/9/2020,174,209,54,9,9,5,209,Very Unhealthy
+10/10/2020,179,230,46,9,8,6,230,Very Unhealthy
+10/11/2020,184,186,29,9,8,5,186,Unhealthy
+10/12/2020,178,281,39,11,9,7,281,Very Unhealthy
+10/13/2020,195,272,41,17,6,11,272,Very Unhealthy
+10/14/2020,226,263,27,14,6,10,263,Very Unhealthy
+10/15/2020,229,285,3,9,9,9,285,Very Unhealthy
+10/16/2020,232,257, ,13,10,7,257,Very Unhealthy
+10/17/2020,201,285,8,15,12,8,285,Very Unhealthy
+10/18/2020,218,218,36,16,1,4,218,Very Unhealthy
+10/19/2020,208,223,46,15,7,3,223,Very Unhealthy
+10/20/2020,190,246,48,19,4,7,246,Very Unhealthy
+10/21/2020,200,303,49,25,5,14,303,Hazardous
+10/22/2020,200,383,57,27,17,5,383,Hazardous
+10/23/2020,259,462,45,24,21,11,462,Hazardous
+10/24/2020,325,426,49,26,14,9,426,Hazardous
+10/25/2020,297,361,58,28,8,9,361,Hazardous
+10/26/2020,290,343,32,25,9,9,343,Hazardous
+10/27/2020,279,247,33,20,6,9,279,Very Unhealthy
+10/28/2020,243,281,39,31,8,10,281,Very Unhealthy
+10/29/2020,257,424,58,30,8,8,424,Hazardous
+10/30/2020,348,383,29,28,9,10,383,Hazardous
+10/31/2020,318,393,33,21,6,9,393,Hazardous
+11/1/2020,333,242,35,22,8,9,333,Hazardous
+11/2/2020,307,271,33,24,7,13,307,Hazardous
+11/3/2020,239,280,34,27,8,13,280,Very Unhealthy
+11/4/2020,225,498,19,33,8,11,498,Hazardous
+11/5/2020,404,450,31,32,7,10,450,Hazardous
+11/6/2020,371,409,26,33,9,7,409,Hazardous
+11/7/2020,344,612,40,34,8,14,612,Hazardous
+11/8/2020,437,500,36,32,12,21,500,Hazardous
+11/9/2020,403,773,26,35,9,31,773,Hazardous
+11/10/2020,635,872,77,34,7,34,872,Hazardous
+11/11/2020,661,485,37,35,8,28,661,Hazardous
+11/12/2020,339,313,48,30,7,19,339,Hazardous
+11/13/2020,266,347,41,26,8,17,347,Hazardous
+11/14/2020,324,530,45,30,14,26,530,Hazardous
+11/15/2020,510,363,48,25,12,18,510,Hazardous
+11/16/2020,428,96,23,15,6,9,428,Hazardous
+11/17/2020,175,100,26,14,6,9,175,Unhealthy
+11/18/2020,168,154,38,18,6,10,168,Unhealthy
+11/19/2020,206,264,43,23,7,12,264,Very Unhealthy
+11/20/2020,267,210,42,19,7,11,267,Very Unhealthy
+11/21/2020,263,240,35,20,6,11,263,Very Unhealthy
+11/22/2020,226,188,35,22,8,11,226,Very Unhealthy
+11/23/2020,237,300,42,27,7,15,300,Very Unhealthy
+11/24/2020,259,508,53,37,9,29,508,Hazardous
+11/25/2020,354,447,22,34,10,25,447,Hazardous
+11/26/2020,390,132,19,17,7,9,390,Hazardous
+11/27/2020,205,145,26,15,6,8,205,Very Unhealthy
+11/28/2020,165,213,35,20,6,11,213,Very Unhealthy
+11/29/2020,207,217,7,22,6,14,217,Very Unhealthy
+11/30/2020,214,286, ,25,8,16,286,Very Unhealthy
+12/1/2020,259,279, ,27,8,17,279,Very Unhealthy
+12/2/2020,322,308, ,27,9,16,322,Hazardous
+12/3/2020,302,292,21,26,9,19,302,Hazardous
+12/4/2020,275,398,43,37,8,25,398,Hazardous
+12/5/2020,330,273,42,33,7,17,330,Hazardous
+12/6/2020,321,264,39,26,7,14,321,Hazardous
+12/7/2020,337,330,41,24,6,17,337,Hazardous
+12/8/2020,371,284,21,24,7,16,371,Hazardous
+12/9/2020,294,269,31,22,6,12,294,Very Unhealthy
+12/10/2020,250,174,19,16,4,9,250,Very Unhealthy
+12/11/2020,200,288,15,35,6,19,288,Very Unhealthy
+12/12/2020,284,205,10,14,3,16,284,Very Unhealthy
+12/13/2020,317,101,16,8,2,7,317,Hazardous
+12/14/2020,187,89,25,6,3,4,187,Unhealthy
+12/15/2020,165,118,24,9,4,6,165,Unhealthy
+12/16/2020,201,154,21,9,3,6,201,Very Unhealthy
+12/17/2020,207,142,24,9,3,8,207,Very Unhealthy
+12/18/2020,224,202,34,15,4,9,224,Very Unhealthy
+12/19/2020,234,197,46,17,5,10,234,Very Unhealthy
+12/20/2020,266,228,35,22,6,13,266,Very Unhealthy
+12/21/2020,264,242,36,23,6,14,264,Very Unhealthy
+12/22/2020,274,398,29,24,6,28,398,Hazardous
+12/23/2020,401,487,28,25,9,26,487,Hazardous
+12/24/2020,467,321,24,21,5,20,467,Hazardous
+12/25/2020,381,230,30,19,5,15,381,Hazardous
+12/26/2020,291,327,33,21,4,18,327,Hazardous
+12/27/2020,338,374,29,23,4,21,374,Hazardous
+12/28/2020,388,182,27,13,4,8,388,Hazardous
+12/29/2020,179,178,29,15,4,10,179,Unhealthy
+12/30/2020,216,150,20,12,3,11,216,Very Unhealthy
+12/31/2020,238,314,4,16,5,19,314,Hazardous
+1/1/2021,384, , , , , ,384,Hazardous
+1/4/2021, ,131,5,30,4,13,131,Unhealthy for Sensitive Groups
+1/5/2021,207,85,8,13,5,10,207,Very Unhealthy
+1/6/2021,180,131,23,10,5,15,180,Unhealthy
+1/7/2021,234,98,11,4,6,11,234,Very Unhealthy
+1/8/2021,187,149,6,8,8,13,187,Unhealthy
+1/9/2021,199,128,10,6,8,11,199,Unhealthy
+1/10/2021,222,105,11,4,9,11,222,Very Unhealthy
+1/11/2021,200,159,16,12,7,11,200,Unhealthy
+1/12/2021,213,164,17,11,4,18,213,Very Unhealthy
+1/13/2021,254,294,18,14,4,70,294,Very Unhealthy
+1/14/2021,325,431,16,19,6,36,431,Hazardous
+1/15/2021,458,410,22,21,6,40,458,Hazardous
+1/16/2021,450,170,6,12,6, ,450,Hazardous
+1/17/2021,310,184,14,15,4, ,310,Hazardous
+1/18/2021,296,295,11,18,5, ,296,Very Unhealthy
+1/19/2021,327,226,4,12,6,112,327,Hazardous
+1/20/2021,312,158,14,11,4,2,312,Hazardous
+1/21/2021,229,170,26,13,5,10,229,Very Unhealthy
+1/22/2021,246,338,18,22,7,9,338,Hazardous
+1/23/2021,377,176,21,18,6,8,377,Hazardous
+1/24/2021,253,199,11,10,6,9,253,Very Unhealthy
+1/25/2021,294,209,22,9,6,8,294,Very Unhealthy
+1/26/2021,245,140,2,13,6,7,245,Very Unhealthy
+1/27/2021,241, , , , , ,241,Very Unhealthy
+1/28/2021, ,307,22,18,8,27,307,Hazardous
+1/29/2021,284,284,31,22,8,11,284,Very Unhealthy
+1/30/2021,300,237,26,26,9,12,300,Very Unhealthy
+1/31/2021,283,265,34,25,9,14,283,Very Unhealthy
+2/1/2021,271,401,32,28,8,16,401,Hazardous
+2/2/2021,356,413,35,33,12,17,413,Hazardous
+2/3/2021,347,198,32,29,6,12,347,Hazardous
+2/4/2021,245,149,11,20,5,11,245,Very Unhealthy
+2/5/2021,240,121,18,15,7,8,240,Very Unhealthy
+2/6/2021,205,141,22,15,5,7,205,Very Unhealthy
+2/7/2021,217,199,28,19,4,9,217,Very Unhealthy
+2/8/2021,247,224,31,21,6,10,247,Very Unhealthy
+2/9/2021,268,307,14,32,8,17,307,Hazardous
+2/10/2021,227,351,35,29,9,15,351,Hazardous
+2/11/2021,292,333,28,24,10,11,333,Hazardous
+2/12/2021,323,299,25,22,11,12,323,Hazardous
+2/13/2021,345,240,22,19,8,17,345,Hazardous
+2/14/2021,247,271,3,17,10,20,271,Very Unhealthy
+2/15/2021,311,244,40,25,11,10,311,Hazardous
+2/16/2021,228,250,42,25,12,11,250,Very Unhealthy
+2/17/2021,269,341,30,22,14,12,341,Hazardous
+2/18/2021,302,339,38,25,14,12,339,Hazardous
+2/19/2021,262,249,17,21,14,13,262,Very Unhealthy
+2/20/2021,289,179,27,18,14,11,289,Very Unhealthy
+2/21/2021,210,255,36,20,22,10,255,Very Unhealthy
+2/22/2021,301,260,31,21,21,10,301,Hazardous
+2/23/2021,251,329,29,25,25,12,329,Hazardous
+2/24/2021,235,441,32,23,26,14,441,Hazardous
+2/25/2021,245,311,25,22,22,11,311,Hazardous
+2/26/2021,259,309,18,21,23,13,309,Hazardous
+2/27/2021,230,266,16,17,15,7,266,Very Unhealthy
+2/28/2021,163,180,30,15,20,5,180,Unhealthy
+3/1/2021,174,280,34,17,24,6,280,Very Unhealthy
+3/2/2021,218,207,36,13,17,4,218,Very Unhealthy
+3/3/2021,160,291,36,20,27,10,291,Very Unhealthy
+3/4/2021,215,398,48,32,18,18,398,Hazardous
+3/5/2021,246,229,28,18,14,9,246,Very Unhealthy
+3/6/2021,223,227,34,19,15,10,227,Very Unhealthy
+3/7/2021,221,264,38,27,10,15,264,Very Unhealthy
+3/8/2021,205,155,39,22,5,9,205,Very Unhealthy
+3/9/2021,177,202,26,20,4,9,202,Very Unhealthy
+3/10/2021,196,155,23,17,7,7,196,Unhealthy
+3/11/2021,174,239,20,22,9,11,239,Very Unhealthy
+3/12/2021,229,149,19,23,6,6,229,Very Unhealthy
+3/13/2021,154,259,12,19,11,9,259,Very Unhealthy
+3/14/2021,243,162,21,16,13,6,243,Very Unhealthy
+3/15/2021,220,210,12,15,18,7,220,Very Unhealthy
+3/16/2021,232,320,6,15,16,7,320,Hazardous
+3/17/2021,238,359,6, ,21,8,359,Hazardous
+3/18/2021,241,511,5,16,12,11,511,Hazardous
+3/19/2021,286,276,26,11,15,8,286,Very Unhealthy
+3/20/2021,218,360,28,12,11,9,360,Hazardous
+3/21/2021,184,271,32,14,11,9,271,Very Unhealthy
+3/22/2021,229,252,15,17,6,8,252,Very Unhealthy
+3/23/2021,167,217,8,15,7,6,217,Very Unhealthy
+3/24/2021,149,180,29,13,13,5,180,Unhealthy
+3/25/2021,183,132,25,9,6,4,183,Unhealthy
+3/26/2021,145,181,32,13,14,6,181,Unhealthy
+3/27/2021,189,282,29,16,19,8,282,Very Unhealthy
+3/28/2021,230,283,37,17,15,10,283,Very Unhealthy
+3/29/2021,255, , , , , ,255,Very Unhealthy
+3/30/2021, ,999,26,6,6,3,999,Hazardous
+3/31/2021,174,142,26,10,12,5,174,Unhealthy
+4/1/2021,117,247,34,10,13,5,247,Very Unhealthy
+4/2/2021,137,184,26,14,22,5,184,Unhealthy
+4/3/2021,151,177,41,16,19,6,177,Unhealthy
+4/4/2021,167,186,39,16,22,6,186,Unhealthy
+4/5/2021,183,199,58,25,15,10,199,Unhealthy
+4/6/2021,168,270,83,23,13,12,270,Very Unhealthy
+4/7/2021,205,188,40,11,12,5,205,Very Unhealthy
+4/8/2021,150,176,35,14,14,5,176,Unhealthy
+4/9/2021,183,193,34,16,19,6,193,Unhealthy
+4/10/2021,172,223,40,18,21,7,223,Very Unhealthy
+4/11/2021,181,236,39,17,24,7,236,Very Unhealthy
+4/12/2021,202,265,42,20,24,7,265,Very Unhealthy
+4/13/2021,214,317,36,19,21,7,317,Hazardous
+4/14/2021,195,220,32,17,20,6,220,Very Unhealthy
+4/15/2021,176,268,25,18,26,7,268,Very Unhealthy
+4/16/2021,184,309,4,18,17,6,309,Hazardous
+4/17/2021,157,95,10,10,8,5,157,Unhealthy
+4/18/2021,122,148,28,12,11,6,148,Unhealthy for Sensitive Groups
+4/19/2021,169,271,23,16,15,6,271,Very Unhealthy
+4/20/2021,160,167,36,12,14,6,167,Unhealthy
+4/21/2021,142,95,21,7,9,5,142,Unhealthy for Sensitive Groups
+4/22/2021,135,106,41,9,8,5,135,Unhealthy for Sensitive Groups
+4/23/2021,139,79,22,8,7,5,139,Unhealthy for Sensitive Groups
+4/24/2021,99,136,33,8,12,5,136,Unhealthy for Sensitive Groups
+4/25/2021,164,171,37,11,14,7,171,Unhealthy
+4/26/2021,176,277,49,17,19,13,277,Very Unhealthy
+4/27/2021,270,277,49,17,20,11,277,Very Unhealthy
+4/28/2021,273,211,37,19,24,13,273,Very Unhealthy
+4/29/2021,293,323,40,16,18,10,323,Hazardous
+4/30/2021,274,375,56,15,13,9,375,Hazardous
+5/1/2021,247,156,93,11,9,6,247,Very Unhealthy
+5/2/2021,160,189,42,12,9,6,189,Unhealthy
+5/3/2021,159,279,25,9,17,6,279,Very Unhealthy
+5/4/2021,179,142,26,10,13,6,179,Unhealthy
+5/5/2021,149,120,48,8,9,6,149,Unhealthy for Sensitive Groups
+5/6/2021,152,89,24,7,7,6,152,Unhealthy
+5/7/2021,127,92,19,8,5,7,127,Unhealthy for Sensitive Groups
+5/8/2021,157,113,36,10,7,7,157,Unhealthy
+5/9/2021,158,87,42,7,7,5,158,Unhealthy
+5/10/2021,127,90,46,10,5,8,127,Unhealthy for Sensitive Groups
+5/11/2021,132,92,36,7,6,6,132,Unhealthy for Sensitive Groups
+5/12/2021,120,126,31,8,6,5,126,Unhealthy for Sensitive Groups
+5/13/2021,111,66,19,7,6,7,111,Unhealthy for Sensitive Groups
+5/14/2021,89,80,30,8,4,7,89,Moderate
+5/15/2021,116,147,28,9,5,5,147,Unhealthy for Sensitive Groups
+5/16/2021,107,115,53,11,6,8,115,Unhealthy for Sensitive Groups
+5/17/2021,146,182,41,15,8,8,182,Unhealthy
+5/18/2021,198,60,10,8,4,4,198,Unhealthy
+5/19/2021,73,40,8,6,5,5,73,Moderate
+5/20/2021,91,46,10,7,4,6,91,Moderate
+5/21/2021,89,57,5,9,6,7,89,Moderate
+5/22/2021,105,62,9,8,8,5,105,Unhealthy for Sensitive Groups
+5/23/2021,104,289,3,15,10,3,289,Very Unhealthy
+5/24/2021,202,112,28,5,4,5,202,Very Unhealthy
+5/25/2021,105,112,47,7,4,4,112,Unhealthy for Sensitive Groups
+5/26/2021,124,167,58,11,5,5,167,Unhealthy
+5/27/2021,154,153,40,12,4,5,154,Unhealthy
+5/28/2021,143,89,16,6,4,6,143,Unhealthy for Sensitive Groups
+5/29/2021,97,80,12,3,5,5,97,Moderate
+5/30/2021,51,85,20,4,5,4,85,Moderate
+5/31/2021,64,108,26,10,4,6,108,Unhealthy for Sensitive Groups
+6/1/2021,103,204,26,6,6,6,204,Very Unhealthy
+6/2/2021,102,102,22,7,7,5,102,Unhealthy for Sensitive Groups
+6/3/2021,118,119,51,7,8,6,119,Unhealthy for Sensitive Groups
+6/4/2021,155,125,48,8,7,6,155,Unhealthy
+6/5/2021,155,89,40,9,6,5,155,Unhealthy
+6/6/2021,115,115,28,8,5,6,115,Unhealthy for Sensitive Groups
+6/7/2021,117,164,29,11,4,8,164,Unhealthy
+6/8/2021,147,481,6,9,3,5,481,Hazardous
+6/9/2021,167,306,13,6,6,6,306,Hazardous
+6/10/2021,137,153,14,6,7,6,153,Unhealthy
+6/11/2021,130,111,15,8,7,5,130,Unhealthy for Sensitive Groups
+6/12/2021,97,111,6,5,7,5,111,Unhealthy for Sensitive Groups
+6/13/2021,100,78,8,5,7,6,100,Moderate
+6/14/2021,100,92,7,5,5,5,100,Moderate
+6/15/2021,114,113,11,6,3,5,114,Unhealthy for Sensitive Groups
+6/16/2021,94,84,18,5,3,6,94,Moderate
+6/17/2021,109,83,19,5,3,7,109,Unhealthy for Sensitive Groups
+6/18/2021,130,64,20,5,4,6,130,Unhealthy for Sensitive Groups
+6/19/2021,84,64,12,2,3,4,84,Moderate
+6/20/2021,75,50,11,2,4,4,75,Moderate
+6/21/2021,68,77,14,5,2,6,77,Moderate
+6/22/2021,102,138,18,6,1,7,138,Unhealthy for Sensitive Groups
+6/23/2021,127,270,27,9,1,6,270,Very Unhealthy
+6/24/2021,155,98,13,6,3,6,155,Unhealthy
+6/25/2021,132,150,16,6,3,5,150,Unhealthy for Sensitive Groups
+6/26/2021,121,106,11,11,4,7,121,Unhealthy for Sensitive Groups
+6/27/2021,122,155,24,10,3,9,155,Unhealthy
+6/28/2021,173,135,13,10,4,7,173,Unhealthy
+6/29/2021,153,194,11,14,5,6,194,Unhealthy
+6/30/2021,153,451,13,10,7,4,451,Hazardous
+7/1/2021,145,237,10,11,6,6,237,Very Unhealthy
+7/2/2021,122,233,4,9,4,5,233,Very Unhealthy
+7/3/2021,125,85,4,8,4,5,125,Unhealthy for Sensitive Groups
+7/4/2021,81,120,2,10,7,7,120,Unhealthy for Sensitive Groups
+7/5/2021,128,133,1,11,7,5,133,Unhealthy for Sensitive Groups
+7/6/2021,125,136, ,11,7,5,136,Unhealthy for Sensitive Groups
+7/7/2021,121,181,3,12,6,5,181,Unhealthy
+7/8/2021,129,175,3,10,7,4,175,Unhealthy
+7/9/2021,124,87,12,11,7,6,124,Unhealthy for Sensitive Groups
+7/10/2021,108,70,14,9,8,6,108,Unhealthy for Sensitive Groups
+7/11/2021,92,74,12,8,8,6,92,Moderate
+7/12/2021,107,65,11,7,9,5,107,Unhealthy for Sensitive Groups
+7/13/2021,91,49,11,9,8,7,91,Moderate
+7/14/2021,72,49,12,7,7,7,72,Moderate
+7/15/2021,97,64,15,7,6,6,97,Moderate
+7/16/2021,104,84,27,11,8,6,104,Unhealthy for Sensitive Groups
+7/17/2021,120,95,6,11,8,5,120,Unhealthy for Sensitive Groups
+7/18/2021,128,69,7,10,8,5,128,Unhealthy for Sensitive Groups
+7/19/2021,92,19,7,6,11,5,92,Moderate
+7/20/2021,46,55,11,8,11,7,55,Moderate
+7/21/2021,102,68,8,8,9,9,102,Unhealthy for Sensitive Groups
+7/22/2021,99,59,6,10,8,5,99,Moderate
+7/23/2021,79,69,8,8,9,7,79,Moderate
+7/24/2021,90,100,17,21,9,8,100,Moderate
+7/25/2021,122,86,34,14,7,7,122,Unhealthy for Sensitive Groups
+7/26/2021,101,84,7,11,7,7,101,Unhealthy for Sensitive Groups
+7/27/2021,127,58,10,5,8,6,127,Unhealthy for Sensitive Groups
+7/28/2021,103,32,19,14,9,4,103,Unhealthy for Sensitive Groups
+7/29/2021,52,52,14,20,8,4,52,Moderate
+7/30/2021,72,56,19,24,8,4,72,Moderate
+7/31/2021,105,60,19,34,8,4,105,Unhealthy for Sensitive Groups
+8/1/2021,76,46,8,19,9,4,76,Moderate
+8/2/2021,69,64,8,17,10,6,69,Moderate
+8/3/2021,109,70,8,43,10,4,109,Unhealthy for Sensitive Groups
+8/4/2021,88,79,9,32,10,4,88,Moderate
+8/5/2021,86,101,23,19,10,4,101,Unhealthy for Sensitive Groups
+8/6/2021,112,98,13,17,10,4,112,Unhealthy for Sensitive Groups
+8/7/2021,125,99,15,22,11,5,125,Unhealthy for Sensitive Groups
+8/8/2021,120,60,14,9,10,6,120,Unhealthy for Sensitive Groups
+8/9/2021,117,76,16,14,11,7,117,Unhealthy for Sensitive Groups
+8/10/2021,157,106,7,31,10,3,157,Unhealthy
+8/11/2021,98,121,14,15,10,3,121,Unhealthy for Sensitive Groups
+8/12/2021,91,113,19,14,10,3,113,Unhealthy for Sensitive Groups
+8/13/2021,84,108,11,14,10,3,108,Unhealthy for Sensitive Groups
+8/14/2021,86,113,8,13,10,3,113,Unhealthy for Sensitive Groups
+8/15/2021,83,96,10,10,10,2,96,Moderate
+8/16/2021,83,124,7,14,11,3,124,Unhealthy for Sensitive Groups
+8/17/2021,102,167,12,15,10,4,167,Unhealthy
+8/18/2021,140,155,14,18,10,4,155,Unhealthy
+8/19/2021,151,151,12,22,10,5,151,Unhealthy
+8/20/2021,160,82,9,15,11,4,160,Unhealthy
+8/21/2021,101,29,11,8,12,5,101,Unhealthy for Sensitive Groups
+8/22/2021,68,51,10,18,11,4,68,Moderate
+8/23/2021,93,68,12,17,10,4,93,Moderate
+8/24/2021,102,91,12,16,10,4,102,Unhealthy for Sensitive Groups
+8/25/2021,124,110,7,14,10,3,124,Unhealthy for Sensitive Groups
+8/26/2021,96,118,9,12,11,3,118,Unhealthy for Sensitive Groups
+8/27/2021,83,129,10,11,11,3,129,Unhealthy for Sensitive Groups
+8/28/2021,101,111,14,15,11,4,111,Unhealthy for Sensitive Groups
+8/29/2021,113,88,24,13,11,4,113,Unhealthy for Sensitive Groups
+8/30/2021,126,42,7,8,12,3,126,Unhealthy for Sensitive Groups
+8/31/2021,69,32,8,7,13,4,69,Moderate
+9/1/2021,63,24,9,6,13,4,63,Moderate
+9/2/2021,54,48,8,11,15,6,54,Moderate
+9/3/2021,91,45,9,20,13,4,91,Moderate
+9/4/2021,73,54,20,14,14,6,73,Moderate
+9/5/2021,88,59,11,11,12,5,88,Moderate
+9/6/2021,99,90,24,25,15,8,99,Moderate
+9/7/2021,128,69,13,12,12,4,128,Unhealthy for Sensitive Groups
+9/8/2021,115,54,11,13,13,4,115,Unhealthy for Sensitive Groups
+9/9/2021,72,61,13,13,12,4,72,Moderate
+9/10/2021,84,57,10,13,13,4,84,Moderate
+9/11/2021,93,29,11,12,15,4,93,Moderate
+9/12/2021,65,36,30,9,13,4,65,Moderate
+9/13/2021,80,47,17,7,13,5,80,Moderate
+9/14/2021,98,51,11,15,13,4,98,Moderate
+9/15/2021,81,57,12,16,13,4,81,Moderate
+9/16/2021,68,54,10,15,14,5,68,Moderate
+9/17/2021,79,41,14,10,14,3,79,Moderate
+9/18/2021,68,60,14,12,14,5,68,Moderate
+9/19/2021,95,68,24,14,14,4,95,Moderate
+9/20/2021,94,72,11,16,13,4,94,Moderate
+9/21/2021,91,65,10,16,14,5,91,Moderate
+9/22/2021,89,51,10,16,15,4,89,Moderate
+9/23/2021,81,47,9,11,13,3,81,Moderate
+9/24/2021,70,54,11,13,14,5,70,Moderate
+9/25/2021,84,53,11,11,14,3,84,Moderate
+9/26/2021,97,60,21,15,14,4,97,Moderate
+9/27/2021,112,81,15,14,13,6,112,Unhealthy for Sensitive Groups
+9/28/2021,142,81,23,14,11,7,142,Unhealthy for Sensitive Groups
+9/29/2021,118,71,12,14,10,6,118,Unhealthy for Sensitive Groups
+9/30/2021,85,88,19,16,10,6,88,Moderate
+10/1/2021,99,134,16,18,10,8,134,Unhealthy for Sensitive Groups
+10/2/2021,138,102,13,11,10,6,138,Unhealthy for Sensitive Groups
+10/3/2021,137,89,10,11,10,5,137,Unhealthy for Sensitive Groups
+10/4/2021,103,101,9,12,11,5,103,Unhealthy for Sensitive Groups
+10/5/2021,82,93,20,12,11,5,93,Moderate
+10/6/2021,103,85,11,8,11,5,103,Unhealthy for Sensitive Groups
+10/7/2021,124,117,19,12,11,6,124,Unhealthy for Sensitive Groups
+10/8/2021,157,153,19,15,11,7,157,Unhealthy
+10/9/2021,160,169,23,18,12,8,169,Unhealthy
+10/10/2021,151,184,19,17,12,10,184,Unhealthy
+10/11/2021,150,195,18,19,12,9,195,Unhealthy
+10/12/2021,152,247,21,18,12,8,247,Very Unhealthy
+10/13/2021,156,288,30,15,13,8,288,Very Unhealthy
+10/14/2021,169,258,30,22,15,8,258,Very Unhealthy
+10/15/2021,170,187,32,29,15,10,187,Unhealthy
+10/16/2021,183,276,40,29,15,11,276,Very Unhealthy
+10/17/2021,223,44,8,13,12,5,223,Very Unhealthy
+10/18/2021,71,26,9,14,12,4,71,Moderate
+10/19/2021,47,84,20,16,13,6,84,Moderate
+10/20/2021,131,191,32,27,14,10,191,Unhealthy
+10/21/2021,186,238,25,26,14,6,238,Very Unhealthy
+10/22/2021,161,202,18,25,12,9,202,Very Unhealthy
+10/23/2021,138,134,25,26,6,7,138,Unhealthy for Sensitive Groups
+10/24/2021,134,92,32,19,3,5,134,Unhealthy for Sensitive Groups
+10/25/2021,140,58,31,14,3,3,140,Unhealthy for Sensitive Groups
+10/26/2021,112,116,34,18,3,4,116,Unhealthy for Sensitive Groups
+10/27/2021,164,193,36,25,5,7,193,Unhealthy
+10/28/2021,192,225,35,26,5,8,225,Very Unhealthy
+10/29/2021,221,190,42,28,7,7,221,Very Unhealthy
+10/30/2021,221,208,38,27,7,7,221,Very Unhealthy
+10/31/2021,213,251,41,24,9,10,251,Very Unhealthy
+11/1/2021,211,265,47,41,10,15,265,Very Unhealthy
+11/2/2021,216,189,47,39,8,14,216,Very Unhealthy
+11/3/2021,200,248,54,39,9,17,248,Very Unhealthy
+11/4/2021,230,442,32,17,8,18,442,Hazardous
+11/5/2021,459,447,24,21,10,19,459,Hazardous
+11/6/2021,493,322,39,23,10,16,493,Hazardous
+11/7/2021,401,301,39,27,9,15,401,Hazardous
+11/8/2021,330,297,50,32,11,16,330,Hazardous
+11/9/2021,325,316,53,29,11,15,325,Hazardous
+11/10/2021,334,330,62,35,12,18,334,Hazardous
+11/11/2021,299,497,19,42,14,24,497,Hazardous
+11/12/2021,411,538,37,36,12,23,538,Hazardous
+11/13/2021,463,418,40,34,12,19,463,Hazardous
+11/14/2021,369,213,63,27,11,11,369,Hazardous
+11/15/2021,254,415,48,38,17,19,415,Hazardous
+11/16/2021,325,328,55,28,11,16,328,Hazardous
+11/17/2021,334,296,53,31,13,17,334,Hazardous
+11/18/2021,297,323,66,37,16,20,323,Hazardous
+11/19/2021,333,308,57,34,16,17,333,Hazardous
+11/20/2021,323,263,55,30,15,16,323,Hazardous
+11/21/2021,302,200,54,25,13,13,302,Hazardous
+11/22/2021,291,192,53,18,11,10,291,Very Unhealthy
+11/23/2021,209,290,57,28,13,19,290,Very Unhealthy
+11/24/2021,242,360,66,47,15,23,360,Hazardous
+11/25/2021,325,354,68,46,13,22,354,Hazardous
+11/26/2021,337,385,68,38,14,24,385,Hazardous
+11/27/2021,365,353,54,41,13,27,365,Hazardous
+11/28/2021,346,338,58,34,11,20,346,Hazardous
+11/29/2021,378,257,49,25,12,17,378,Hazardous
+11/30/2021,302,215,47,26,11,15,302,Hazardous
+12/1/2021,264,270,29,28,11,16,270,Very Unhealthy
+12/2/2021,328,274,19,23,10,16,328,Hazardous
+12/3/2021,377,179,30,22,10,16,377,Hazardous
+12/4/2021,276,219,35,27,11,17,276,Very Unhealthy
+12/5/2021,266,206,52,35,14,25,266,Very Unhealthy
+12/6/2021,280,123,31,19,9,11,280,Very Unhealthy
+12/7/2021,204,140,33,20,7,12,204,Very Unhealthy
+12/8/2021,201,185,36,24,8,13,201,Very Unhealthy
+12/9/2021,221,192,37,26,8,13,221,Very Unhealthy
+12/10/2021,241,182,38,25,9,12,241,Very Unhealthy
+12/11/2021,236,148,43,24,8,10,236,Very Unhealthy
+12/12/2021,204,213,45,28,9,6,213,Very Unhealthy
+12/13/2021,237,525,24,31,15,24,525,Hazardous
+12/14/2021,461,311,34,36,13,21,461,Hazardous
+12/15/2021,360,231,39,25,9,15,360,Hazardous
+12/16/2021,313,215,32,22,8,14,313,Hazardous
+12/17/2021,328,149,42,14,7,10,328,Hazardous
+12/18/2021,252,162,40,17,5,11,252,Very Unhealthy
+12/19/2021,216,157,44,20,7,11,216,Very Unhealthy
+12/20/2021,230,251,56,26,10,18,251,Very Unhealthy
+12/21/2021,284,365,30,35,13,20,365,Hazardous
+12/22/2021,395,503,11,35,11,28,503,Hazardous
+12/23/2021,435,594,16,53,14,37,594,Hazardous
+12/24/2021,488,351,31,46,8,24,488,Hazardous
+12/25/2021,378,557,41,44,10,35,557,Hazardous
+12/26/2021,506,450,18,34,9,25,506,Hazardous
+12/27/2021,496,103,24,21,5,12,496,Hazardous
+12/28/2021,194,149,7,30,5,15,194,Unhealthy
+12/29/2021,243,137,19,20,6,14,243,Very Unhealthy
+12/30/2021,235,228,26,23,8,15,235,Very Unhealthy
+12/31/2021,292,257,28,25,6,15,292,Very Unhealthy
+1/1/2022,274,313,28,27,6,21,313,Hazardous
+1/2/2022,330,315,33,25,6,18,330,Hazardous
+1/3/2022,358,301,32,29,6,18,358,Hazardous
+1/4/2022,319,287,19,28,7,18,319,Hazardous
+1/5/2022,301,323,16,32,8,22,323,Hazardous
+1/6/2022,371,104,28,21,5,14,371,Hazardous
+1/7/2022,201,81,33,16,5,11,201,Very Unhealthy
+1/8/2022,165,49,41,12,5,8,165,Unhealthy
+1/9/2022,138,38,40,5,7,7,138,Unhealthy for Sensitive Groups
+1/10/2022,107,85,51,13,7,11,107,Unhealthy for Sensitive Groups
+1/11/2022,181,83,57,12,7,12,181,Unhealthy
+1/12/2022,180,118,62,17,7,13,180,Unhealthy
+1/13/2022,200,147,65,18,8,15,200,Unhealthy
+1/14/2022,246,158,43,18,8,14,246,Very Unhealthy
+1/15/2022,252,110,41,9,5,10,252,Very Unhealthy
+1/16/2022,205,93,14,7,6,9,205,Very Unhealthy
+1/17/2022,183,151,24,16,6,13,183,Unhealthy
+1/18/2022,243, , , , , ,243,Very Unhealthy
+1/20/2022, ,311,18,29,5,23,311,Hazardous
+1/21/2022,383,225,15,24,7,19,383,Hazardous
+1/22/2022,294,106,9,19,3,12,294,Very Unhealthy
+1/23/2022,211,82,14,13,6,10,211,Very Unhealthy
+1/24/2022,178,103,10,17,5,12,178,Unhealthy
+1/25/2022,179,119,11,14,2,12,179,Unhealthy
+1/26/2022,188,114,19,14,3,12,188,Unhealthy
+1/27/2022,192,133,27,21,5,12,192,Unhealthy
+1/28/2022,190,189,38,22,6,12,190,Unhealthy
+1/29/2022,196,148,37,23,3,11,196,Unhealthy
+1/30/2022,198,152,39,23,5,12,198,Unhealthy
+1/31/2022,220,306,29,33,5,19,306,Hazardous
+2/1/2022,335,164,25,19,2,15,335,Hazardous
+2/2/2022,284,149,37,19,3,12,284,Very Unhealthy
+2/3/2022,228,122,16,16,4,12,228,Very Unhealthy
+2/4/2022,216,61,22,12,4,10,216,Very Unhealthy
+2/5/2022,126,154,19,18,6,17,154,Unhealthy
+2/6/2022,220,322,31,26,2,21,322,Hazardous
+2/7/2022,281,186,34,25,6,13,281,Very Unhealthy
+2/8/2022,198,280,39,25,4,16,280,Very Unhealthy
+2/9/2022,236,129,26,16,4,18,236,Very Unhealthy
+2/10/2022,171,111,31,15,6,18,171,Unhealthy
+2/11/2022,165,136,40,20,7,17,165,Unhealthy
+2/12/2022,173,183,37,23,7,12,183,Unhealthy
+2/13/2022,177,237,42,29,4,17,237,Very Unhealthy
+2/14/2022,206,246,32,29,6,25,246,Very Unhealthy
+2/15/2022,204,197,33,28,6,17,204,Very Unhealthy
+2/16/2022,179,275,36,27,7,19,275,Very Unhealthy
+2/17/2022,239,145,37,25,2,21,239,Very Unhealthy
+2/18/2022,190,197,25,23,7,12,197,Unhealthy
+2/19/2022,206,158,36,23,5,8,206,Very Unhealthy
+2/20/2022,175,131,36,19,2,8,175,Unhealthy
+2/21/2022,172,243,33,28,4,12,243,Very Unhealthy
+2/22/2022,179,256,35,30,7,9,256,Very Unhealthy
+2/23/2022,181,143,35,25,5,10,181,Unhealthy
+2/24/2022,194,224,36,27,6,12,224,Very Unhealthy
+2/25/2022,255,183,39,29,5,9,255,Very Unhealthy
+2/26/2022,204,56,28,18,4,5,204,Very Unhealthy
+2/27/2022,76,70,31,19,5,7,76,Moderate
+2/28/2022,125,86,35,19,8,8,125,Unhealthy for Sensitive Groups
+3/1/2022,130,126,48,25,6,10,130,Unhealthy for Sensitive Groups
+3/2/2022,181,190,47,27,6,11,190,Unhealthy
+3/3/2022,211,137,51,25,3,9,211,Very Unhealthy
+3/4/2022,171,109,32,14,6,7,171,Unhealthy
+3/5/2022,160,102,37,17,6,8,160,Unhealthy
+3/6/2022,151,140,46,24,7,11,151,Unhealthy
+3/7/2022,179,279,62,34,7,14,279,Very Unhealthy
+3/8/2022,209,302,32,28,8,11,302,Hazardous
+3/9/2022,240,191,6,24,12,9,240,Very Unhealthy
+3/10/2022,163,135,19,19,11,9,163,Unhealthy
+3/11/2022,156,164,30,20,7,9,164,Unhealthy
+3/12/2022,179,179,35,23,10,9,179,Unhealthy
+3/13/2022,186,173,39,24,13,10,186,Unhealthy
+3/14/2022,187,218,52,27,15,11,218,Very Unhealthy
+3/15/2022,203,235,48,23,11,12,235,Very Unhealthy
+3/16/2022,209,197,43,19,6,11,209,Very Unhealthy
+3/17/2022,183,181,73,24,10,12,183,Unhealthy
+3/18/2022,193,140,56,18,6,12,193,Unhealthy
+3/19/2022,199,142,68,24,6,13,199,Unhealthy
+3/20/2022,176,186,51,26,7,11,186,Unhealthy
+3/21/2022,166,276,49,21,13,13,276,Very Unhealthy
+3/22/2022,249,208,42,14,9,9,249,Very Unhealthy
+3/23/2022,184,289,48,24,15,14,289,Very Unhealthy
+3/24/2022,212,373,37,25,4,14,373,Hazardous
+3/25/2022,192,189,41,18,7,10,192,Unhealthy
+3/26/2022,187,250,40,18,12,10,250,Very Unhealthy
+3/27/2022,184,238,30,25,21,14,238,Very Unhealthy
+3/28/2022,225,373,45,33,10,14,373,Hazardous
+3/29/2022,196,379,37,26,15,15,379,Hazardous
+3/30/2022,229,423,49,30,17,15,423,Hazardous
+3/31/2022,228,446,62,29,10,19,446,Hazardous
+4/1/2022,235,263,46,18,15,9,263,Very Unhealthy
+4/2/2022,186,282,64,41,15,15,282,Very Unhealthy
+4/3/2022,187,305,52,31,8,11,305,Hazardous
+4/4/2022,183,294,60,24,16,11,294,Very Unhealthy
+4/5/2022,203,273,51,27,23,11,273,Very Unhealthy
+4/6/2022,213,382,38,27,23,14,382,Hazardous
+4/7/2022,236,413,54,25,22,13,413,Hazardous
+4/8/2022,246,345,63,22,26,12,345,Hazardous
+4/9/2022,211,371,61,22,25,14,371,Hazardous
+4/10/2022,238,303,62,16,16,9,303,Hazardous
+4/11/2022,176,333,65,20,24,12,333,Hazardous
+4/12/2022,223,323,41,23,16,13,323,Hazardous
+4/13/2022,198,422,34,21,11,10,422,Hazardous
+4/14/2022,185,365,65,9,11,6,365,Hazardous
+4/15/2022,164,178,73,16,10,9,178,Unhealthy
+4/16/2022,156,403,86,19,8,12,403,Hazardous
+4/17/2022,197,331,92,21,10,11,331,Hazardous
+4/18/2022,194,442,71,24,14,15,442,Hazardous
+4/19/2022,231,460,27,12,8,8,460,Hazardous
+4/20/2022,175,346,29,10,14,7,346,Hazardous
+4/21/2022,186,423,16,11, ,8,423,Hazardous
+4/22/2022,214,207,55,13,9,6,214,Very Unhealthy
+4/23/2022,146,349,68,17,16,7,349,Hazardous
+4/24/2022,232,396,70,14,19,9,396,Hazardous
+4/25/2022,256,364,63,10,16,8,364,Hazardous
+4/26/2022,232,250,61,15,11,7,250,Very Unhealthy
+4/27/2022,174,463,73,20,22,11,463,Hazardous
+4/28/2022,297,396,80,19,13,10,396,Hazardous
+4/29/2022,275,482,52,19,20,10,482,Hazardous
+4/30/2022,301,401,52,22,20,12,401,Hazardous
+5/1/2022,247,323,64,19,8,12,323,Hazardous
+5/2/2022,192,170,67,15,7,10,192,Unhealthy
+5/3/2022,158,280,73,14,9,12,280,Very Unhealthy
+5/4/2022,170,187,63,18,7,11,187,Unhealthy
+5/5/2022,152,164,84,23,9,10,164,Unhealthy
+5/6/2022,153,305,63,27,9,12,305,Hazardous
+5/7/2022,196,269,88,31,12,15,269,Very Unhealthy
+5/8/2022,177,160,85,19,7,12,177,Unhealthy
+5/9/2022,164,115,71,16,8,10,164,Unhealthy
+5/10/2022,154,115,75,17,7,10,154,Unhealthy
+5/11/2022,150,114,85,15,8,10,150,Unhealthy for Sensitive Groups
+5/12/2022,145,129,83,19,7,12,145,Unhealthy for Sensitive Groups
+5/13/2022,149,153,74,11,9,8,153,Unhealthy
+5/14/2022,145,466,72,27,16, ,466,Hazardous
+5/15/2022,237,382,35,30,15,12,382,Hazardous
+5/16/2022,195,412,35,16,8,7,412,Hazardous
+5/17/2022,168,175,58,16,7,10,175,Unhealthy
+5/18/2022,138,216,71,21,10,11,216,Very Unhealthy
+5/19/2022,157,228,57,23,12,10,228,Very Unhealthy
+5/20/2022,166,310,46,19,10,8,310,Hazardous
+5/21/2022,169,228,39,14,8,7,228,Very Unhealthy
+5/22/2022,158,131,92,18,10,9,158,Unhealthy
+5/23/2022,163,93,35,12,7,7,163,Unhealthy
+5/24/2022,93,65,74,15,6,10,93,Moderate
+5/25/2022,105,107,84,17,6,11,107,Unhealthy for Sensitive Groups
+5/26/2022,164,164,89,21,11,11,164,Unhealthy
+5/27/2022,183,175,45,23,7,10,183,Unhealthy
+5/28/2022,164,298,31,15,8,10,298,Very Unhealthy
+5/29/2022,158,163,44,14,9,8,163,Unhealthy
+5/30/2022,160,131,37,26,6,7,160,Unhealthy
+5/31/2022,145,283,74,27,6,13,283,Very Unhealthy
+6/1/2022,172,272,50,23,9,11,272,Very Unhealthy
+6/2/2022,186,210,37,20,16,11,210,Very Unhealthy
+6/3/2022,169,285,49,24,14,11,285,Very Unhealthy
+6/4/2022,176,353,52,27,13,12,353,Hazardous
+6/5/2022,180,256,32,19,9,10,256,Very Unhealthy
+6/6/2022,154,208,49,27,9,12,208,Very Unhealthy
+6/7/2022,137,432,32,25,8,11,432,Hazardous
+6/8/2022,181,374,28,16,12,7,374,Hazardous
+6/9/2022,171,238,29,18,10,8,238,Very Unhealthy
+6/10/2022,160,411,22,18,12,10,411,Hazardous
+6/11/2022,174,306,24,16,9,8,306,Hazardous
+6/12/2022,163,275,30,15,13,10,275,Very Unhealthy
+6/13/2022,175,200,28,13,6,8,200,Unhealthy
+6/14/2022,129,183,22,10,7,8,183,Unhealthy
+6/15/2022,130,119,23,13,6,6,130,Unhealthy for Sensitive Groups
+6/16/2022,97,110,40,11,6,8,110,Unhealthy for Sensitive Groups
+6/17/2022,85,66,24,13,6,8,85,Moderate
+6/18/2022,70,48,34,11,5,9,70,Moderate
+6/19/2022,77,88,26,11,5,8,88,Moderate
+6/20/2022,94,126,38,16,5,10,126,Unhealthy for Sensitive Groups
+6/21/2022,155,115,42,19,5,10,155,Unhealthy
+6/22/2022,114,113,56,14,5,9,114,Unhealthy for Sensitive Groups
+6/23/2022,124,160,42,11,6,8,160,Unhealthy
+6/24/2022,159,188,47,17,8,9,188,Unhealthy
+6/25/2022,177,250,77,25,11,13,250,Very Unhealthy
+6/26/2022,181,167,54,15,5,10,181,Unhealthy
+6/27/2022,148,88,55,10,5,11,148,Unhealthy for Sensitive Groups
+6/28/2022,136,105,46,13,6,12,136,Unhealthy for Sensitive Groups
+6/29/2022,150,125,52,11,6,10,150,Unhealthy for Sensitive Groups
+6/30/2022,135,48,10,14,5,11,135,Unhealthy for Sensitive Groups
+7/1/2022,91,54,20,16,5,12,91,Moderate
+7/2/2022,107,73,23,15,3,11,107,Unhealthy for Sensitive Groups
+7/3/2022,106,65,25,15,5,11,106,Unhealthy for Sensitive Groups
+7/4/2022,81,93,22,18,5,13,93,Moderate
+7/5/2022,147,93,35,17,4,13,147,Unhealthy for Sensitive Groups
+7/6/2022,142,82,23,9,5,10,142,Unhealthy for Sensitive Groups
+7/7/2022,127,77,37,10,5,9,127,Unhealthy for Sensitive Groups
+7/8/2022,88,73,37,13,6,10,88,Moderate
+7/9/2022,90,87,21,14,6,11,90,Moderate
+7/10/2022,109,55,46, ,5,8,109,Unhealthy for Sensitive Groups
+7/11/2022,78,65,39,16,5,11,78,Moderate
+7/12/2022,119,66,30,18,4,11,119,Unhealthy for Sensitive Groups
+7/13/2022,111,77,33,17,3,9,111,Unhealthy for Sensitive Groups
+7/14/2022,97,76,26,17,5,8,97,Moderate
+7/15/2022,80,76,35,13,6,8,80,Moderate
+7/16/2022,69,51,23,13,6,9,69,Moderate
+7/17/2022,78,48,84,8,7,9,84,Moderate
+7/18/2022,88,77,53,9,5,8,88,Moderate
+7/19/2022,117,87,38,19,6,14,117,Unhealthy for Sensitive Groups
+7/20/2022,119,58,8,11,5,8,119,Unhealthy for Sensitive Groups
+7/21/2022,90,74,27,11,6,11,90,Moderate
+7/22/2022,96,100,24,19,5,14,100,Moderate
+7/23/2022,149,67,26,12,5,9,149,Unhealthy for Sensitive Groups
+7/24/2022,103,57,23,8,5,10,103,Unhealthy for Sensitive Groups
+7/25/2022,79,54,32,7,4,10,79,Moderate
+7/26/2022,81,62,28,8,6,9,81,Moderate
+7/27/2022,80,68,31,9,5,9,80,Moderate
+7/28/2022,86,48,20,7,6,8,86,Moderate
+7/29/2022,56,49,51,6,5,9,56,Moderate
+7/30/2022,58,60,14,6,6,9,60,Moderate
+7/31/2022,59,52,22,6,6,9,59,Moderate
+8/1/2022,63,88,41,7,6,9,88,Moderate
+8/2/2022,65,108,39,8,7,9,108,Unhealthy for Sensitive Groups
+8/3/2022,93,132,25,9,6,10,132,Unhealthy for Sensitive Groups
+8/4/2022,121,88,51,7,7,11,121,Unhealthy for Sensitive Groups
+8/5/2022,136,61,49,5,7,9,136,Unhealthy for Sensitive Groups
+8/6/2022,90,115, ,7,6,12,115,Unhealthy for Sensitive Groups
+8/7/2022,140,95,29,14,7,13,140,Unhealthy for Sensitive Groups
+8/8/2022,125,91,26,13,7,12,125,Unhealthy for Sensitive Groups
+8/9/2022,131,108,19,10,6,11,131,Unhealthy for Sensitive Groups
+8/10/2022,117,91,85,9,6,10,117,Unhealthy for Sensitive Groups
+8/11/2022,92,69,46,5,6,9,92,Moderate
+8/12/2022,48,64,9,8,7,9,64,Moderate
+8/13/2022,66,63,15,7,8,9,66,Moderate
+8/14/2022,71,66, ,8,6,10,71,Moderate
+8/15/2022,82,38, ,3,5,9,82,Moderate
+8/16/2022,46,44,6,4,8,8,46,Good
+8/17/2022,45,44,9,5,7,9,45,Good
+8/18/2022,42,76,9,7,7,9,76,Moderate
+8/19/2022,65,63,14,3,6,9,65,Moderate
+8/20/2022,62,78,8,6,7,9,78,Moderate
+8/21/2022,93,87,7,5, ,9,93,Moderate
+8/22/2022,126,81,18,6,7,10,126,Unhealthy for Sensitive Groups
+8/23/2022,113,72,15,6,5,8,113,Unhealthy for Sensitive Groups
+8/24/2022,73,63,11,10,3,10,73,Moderate
+8/25/2022,74,86,28,10,5,10,86,Moderate
+8/26/2022,97,90,15,5,5,10,97,Moderate
+8/27/2022,98,88,16,5,6,9,98,Moderate
+8/28/2022,93,111,17,6,6,9,111,Unhealthy for Sensitive Groups
+8/29/2022,103,114,18,8,7,10,114,Unhealthy for Sensitive Groups
+8/30/2022,119,98,16,11,7,10,119,Unhealthy for Sensitive Groups
+8/31/2022,124,108,10,5,7,10,124,Unhealthy for Sensitive Groups
+9/1/2022,106,102,23,6,7,10,106,Unhealthy for Sensitive Groups
+9/2/2022,103,107,12,9,8,9,107,Unhealthy for Sensitive Groups
+9/3/2022,103,118,16,7,15,9,118,Unhealthy for Sensitive Groups
+9/4/2022,97,98,16,7,10,9,98,Moderate
+9/5/2022,85,92,6,6,7,9,92,Moderate
+9/6/2022,82,113,2,8,8,9,113,Unhealthy for Sensitive Groups
+9/7/2022,107,113,16,7,12,9,113,Unhealthy for Sensitive Groups
+9/8/2022,125,125,21,10,10,8,125,Unhealthy for Sensitive Groups
+9/9/2022,151,101,27,10,7,10,151,Unhealthy
+9/10/2022,149,86,18,10,8,10,149,Unhealthy for Sensitive Groups
+9/11/2022,137,70,28,8,6,11,137,Unhealthy for Sensitive Groups
+9/12/2022,95,75,19,8,18,10,95,Moderate
+9/13/2022,79,65,11,8,12,9,79,Moderate
+9/14/2022,67,62,12,5,7,8,67,Moderate
+9/15/2022,56,44,5,4,9,9,56,Moderate
+9/16/2022,45,22,2,5,9,9,45,Good
+9/17/2022,44,78,6,7,10,10,78,Moderate
+9/18/2022,101,105,13,9,8,9,105,Unhealthy for Sensitive Groups
+9/19/2022,123,184,2,9,7,13,184,Unhealthy
+9/20/2022,162,121,9,10,8,11,162,Unhealthy
+9/21/2022,135,71,7,11,8,12,135,Unhealthy for Sensitive Groups
+9/22/2022,114,39,2,6,8,10,114,Unhealthy for Sensitive Groups
+9/23/2022,71,26,2,8,8,11,71,Moderate
+9/24/2022,75,29,4,8,11,10,75,Moderate
+9/25/2022,81,29,9,5,3,9,81,Moderate
+9/26/2022,55,84,9,5,6,12,84,Moderate
+9/27/2022,131,100,14,8,7,10,131,Unhealthy for Sensitive Groups
+9/28/2022,125,112,20,9,7,10,125,Unhealthy for Sensitive Groups
+9/29/2022,130,143,23,9,9,11,143,Unhealthy for Sensitive Groups
+9/30/2022,163,143,23,12,9,12,163,Unhealthy
+10/1/2022,170,194,33,13,8,12,194,Unhealthy
+10/2/2022,174,132,18,10,8,11,174,Unhealthy
+10/3/2022,155,100,30,5,8,9,155,Unhealthy
+10/4/2022,116,112,32,8,8,10,116,Unhealthy for Sensitive Groups
+10/5/2022,157,111,17,11,12,12,157,Unhealthy
+10/6/2022,163,53,6,6,8,9,163,Unhealthy
+10/7/2022,52,45,6,6,9,9,52,Moderate
+10/8/2022,61,22,4,7,8,7,61,Moderate
+10/9/2022,54,7,9,3,8,3,54,Moderate
+10/10/2022,31,26,6,7,8,4,31,Good
+10/11/2022,56,70,45,9,8,6,70,Moderate
+10/12/2022,95,97,29,7,8,5,97,Moderate
+10/13/2022,142,99,39,8,17,5,142,Unhealthy for Sensitive Groups
+10/14/2022,135,117,46,9,8,5,135,Unhealthy for Sensitive Groups
+10/15/2022,152,183,42,14,12,5,183,Unhealthy
+10/16/2022,180,180,48,16,17,11,180,Unhealthy
+10/17/2022,176,265,59,19,9,8,265,Very Unhealthy
+10/18/2022,190,255,41,27,14,12,255,Very Unhealthy
+10/19/2022,193,360,47,34,4,18,360,Hazardous
+10/20/2022,195,252,53,37,3,9,252,Very Unhealthy
+10/21/2022,180,317,53,35,4,9,317,Hazardous
+10/22/2022,203,226,45,24,3,7,226,Very Unhealthy
+10/23/2022,213,144,69,20,15,6,213,Very Unhealthy
+10/24/2022,202,151,49,17,5,6,202,Very Unhealthy
+10/25/2022,222,120,43,13,15,5,222,Very Unhealthy
+10/26/2022,195,135,47,21,6,6,195,Unhealthy
+10/27/2022,195,243,40,31,4,11,243,Very Unhealthy
+10/28/2022,252,351,50,38,7,14,351,Hazardous
+10/29/2022,299,392,36,32,7,13,392,Hazardous
+10/30/2022,321,364,34,29,3,14,364,Hazardous
+10/31/2022,311,438,27,36,9,17,438,Hazardous
+11/1/2022,355,362,36,43,4,18,362,Hazardous
+11/2/2022,319,297,28,32,3,11,319,Hazardous
+11/3/2022,322,489,27,32,7,15,489,Hazardous
+11/4/2022,482,464,47,47,7,17,482,Hazardous
+11/5/2022,450,185,21,34,4,12,450,Hazardous
+11/6/2022,264,166,23,34,3,12,264,Very Unhealthy
+11/7/2022,231,231,16,30,4,12,231,Very Unhealthy
+11/8/2022,273,237,11,25,5,10,273,Very Unhealthy
+11/9/2022,327,162,24,27,7,9,327,Hazardous
+11/10/2022,182,215,15,29,15,12,215,Very Unhealthy
+11/11/2022,222,267,17,21,6,11,267,Very Unhealthy
+11/12/2022,328,212,18,22,13,7,328,Hazardous
+11/13/2022,289,189,19,24,7,9,289,Very Unhealthy
+11/14/2022,237,227,19,32,5,13,237,Very Unhealthy
+11/15/2022,242,139,14,25,24,5,242,Very Unhealthy
+11/16/2022,185,146,10,22,4,7,185,Unhealthy
+11/17/2022,197,160,8,21,1,8,197,Unhealthy
+11/18/2022,235,180,8,26,1,5,235,Very Unhealthy
+11/19/2022,241,221,5,30, ,1,241,Very Unhealthy
+11/20/2022,244,187,5,28, , ,244,Very Unhealthy
+11/21/2022,253,186,5,24, ,11,253,Very Unhealthy
+11/22/2022,227,179,5,23, ,11,227,Very Unhealthy
+11/23/2022,197,180,6,23,3,4,197,Unhealthy
+11/24/2022,199,197,11,27,5,6,199,Unhealthy
+11/25/2022,192,255,20,32,12,7,255,Very Unhealthy
+11/26/2022,232,261,25,31,7,2,261,Very Unhealthy
+11/27/2022,268,220,24,28,5,3,268,Very Unhealthy
+11/28/2022,262,244,23,32,7,2,262,Very Unhealthy
+11/29/2022,277,309,21,41,5,1,309,Hazardous
+11/30/2022,308,303,19,34,4,2,308,Hazardous
+12/1/2022,295,318,21,37,36,2,318,Hazardous
+12/2/2022,293,297,16,38,5,2,297,Very Unhealthy
+12/3/2022,290,401,38,45,13,10,401,Hazardous
+12/4/2022,367,254,25,34,2,9,367,Hazardous
+12/5/2022,333,222,24,28,4,10,333,Hazardous
+12/6/2022,264,217,27,24,3,8,264,Very Unhealthy
+12/7/2022,296,165,25,20,4,7,296,Very Unhealthy
+12/8/2022,213,169,25,25,5,10,213,Very Unhealthy
+12/9/2022,214,247,23,29,2,11,247,Very Unhealthy
+12/10/2022,253,296,17,34,3,12,296,Very Unhealthy
+12/11/2022,309,131,12,20,3,9,309,Hazardous
+12/12/2022,163,171,14,20,3,5,171,Unhealthy
+12/13/2022,172,107,28,12,3,2,172,Unhealthy
+12/14/2022,163,190,26,19,5,5,190,Unhealthy
+12/15/2022,161,164,31,22,5,5,164,Unhealthy
+12/16/2022,183,210,31,26,5,9,210,Very Unhealthy
+12/17/2022,209,238,32,25,6,9,238,Very Unhealthy
+12/18/2022,248,271,35,28,2,10,271,Very Unhealthy
+12/19/2022,317,228,25,28,1,11,317,Hazardous
+12/20/2022,349,192,22,24,4,8,349,Hazardous
+12/21/2022,292,186,21,19,2,7,292,Very Unhealthy
+12/22/2022,294,145,13,16,3,8,294,Very Unhealthy
+12/23/2022,245,162,17,21,3,8,245,Very Unhealthy
+12/24/2022,268,195,19,15,3,7,268,Very Unhealthy
+12/25/2022,253,187,18,11,3,6,253,Very Unhealthy
+12/26/2022,242,236,7,16,4,11,242,Very Unhealthy
+12/27/2022,253,214,17,20,3,10,253,Very Unhealthy
+12/28/2022,249,262,28,20,4,7,262,Very Unhealthy
+12/29/2022,243,339,30,31,5,11,339,Hazardous
+12/30/2022,265,455,30,34,4,12,455,Hazardous
+12/31/2022,355,209,19,13,3,6,355,Hazardous
+1/1/2023,244,166,26,17,2,7,244,Very Unhealthy
+1/2/2023,210,355,19,18,3,10,355,Hazardous
+1/3/2023,333,358,16,14,2,7,358,Hazardous
+1/4/2023,317,242,17,11,26,7,317,Hazardous
+1/5/2023,238,270,9,15,4,11,270,Very Unhealthy
+1/6/2023,274,362,11,17,4,8,362,Hazardous
+1/7/2023,289,315,14,18,7,9,315,Hazardous
+1/8/2023,272,334,12,18,4,12,334,Hazardous
+1/9/2023,326,386,9,19,2,15,386,Hazardous
+1/10/2023,388,224,19,15,4,10,388,Hazardous
+1/11/2023,265,290,27,24,3,10,290,Very Unhealthy
+1/12/2023,256,287,27,26,5,12,287,Very Unhealthy
+1/13/2023,280,266,24,22,4,13,280,Very Unhealthy
+1/14/2023,297,191,25,10,3,6,297,Very Unhealthy
+1/15/2023,219,194,32,16,4,6,219,Very Unhealthy
+1/16/2023,173,342,33,21,3,8,342,Hazardous
+1/17/2023,217,384,33,21,7,10,384,Hazardous
+1/18/2023,253,431,4,27,4,11,431,Hazardous
+1/19/2023,308, , , , , ,308,Hazardous
+1/20/2023, ,118,1,18,3,5,118,Unhealthy for Sensitive Groups
+1/21/2023,195,327,21,30,17,10,327,Hazardous
+1/22/2023,314,244,27,23,2,10,314,Hazardous
+1/23/2023,310,231,6,26,6,7,310,Hazardous
+1/24/2023,239,128,6,25,4,6,239,Very Unhealthy
+1/25/2023,174,114,4,15,2,6,174,Unhealthy
+1/26/2023,180,114,13,12,5,5,180,Unhealthy
+1/27/2023,199,123,31,14,6,4,199,Unhealthy
+1/28/2023,182,165,34,20,7,6,182,Unhealthy
+1/29/2023,198,248,6,26,7,13,248,Very Unhealthy
+1/30/2023,271,100,14,22,6,7,271,Very Unhealthy
+1/31/2023,171,90,20,13,5,4,171,Unhealthy
+2/1/2023,171,128,27,14,6,5,171,Unhealthy
+2/2/2023,173,148,31,18,7,5,173,Unhealthy
+2/3/2023,180,143,36,18,11,4,180,Unhealthy
+2/4/2023,179,247,39,20,23,6,247,Very Unhealthy
+2/5/2023,197,206,44,19,15,6,206,Very Unhealthy
+2/6/2023,190,320,39,22,6,16,320,Hazardous
+2/7/2023,236,207,25,17,5,7,236,Very Unhealthy
+2/8/2023,198,174,33,17,7,4,198,Unhealthy
+2/9/2023,182,158,32,24,10,6,182,Unhealthy
+2/10/2023,179,165,39,21,6,6,179,Unhealthy
+2/11/2023,159,187,37,18,6,7,187,Unhealthy
+2/12/2023,208,118,37,11,7,3,208,Very Unhealthy
+2/13/2023,136, ,40,10,7,3,136,Unhealthy for Sensitive Groups
+2/14/2023,123,149,45,14,8,4,149,Unhealthy for Sensitive Groups
+2/15/2023,150,164,41,18,8,6,164,Unhealthy
+2/16/2023,178,206,46,20,7,8,206,Very Unhealthy
+2/17/2023,224,298,64,25,4,10,298,Very Unhealthy
+2/18/2023,297,249,46,18,3,8,297,Very Unhealthy
+2/19/2023,259,285,59,22,2,12,285,Very Unhealthy
+2/20/2023,255,223,40,22,4,13,255,Very Unhealthy
+2/21/2023,205,163,37,17,3,7,205,Very Unhealthy
+2/22/2023,193,180,26,14,4,8,193,Unhealthy
+2/23/2023,197,183,29,14,2,6,197,Unhealthy
+2/24/2023,172,164,41,16,4,6,172,Unhealthy
+2/25/2023,171,230,46,17,4,7,230,Very Unhealthy
+2/26/2023,200,308,49,19,5,12,308,Hazardous
+2/27/2023,228,205,44,18,9,7,228,Very Unhealthy
+2/28/2023,188,202,35,16,8,6,202,Very Unhealthy
+3/1/2023,190,190,31,14,6,6,190,Unhealthy
+3/2/2023,154,148,30,11,9,5,154,Unhealthy
+3/3/2023,158,125,26,10,8,5,158,Unhealthy
+3/4/2023,143,123,20,9,10,5,143,Unhealthy for Sensitive Groups
+3/5/2023,151,116,30,7,9,5,151,Unhealthy
+3/6/2023,137,167,36,9,9,6,167,Unhealthy
+3/7/2023,157,155,41,10,7,7,157,Unhealthy
+3/8/2023,161,118,40,8,8,7,161,Unhealthy
+3/9/2023,178,96,37,8,10,5,178,Unhealthy
+3/10/2023,139,175,38,9,10,10,175,Unhealthy
+3/11/2023,198,193,46,17,12,12,198,Unhealthy
+3/12/2023,183,193,53,13,8,11,193,Unhealthy
+3/13/2023,173,303,43,11,12,13,303,Hazardous
+3/14/2023,247,199,36,38,15,11,247,Very Unhealthy
+3/15/2023,213,311,54,47,12,13,311,Hazardous
+3/16/2023,203,195,49,18,9,12,203,Very Unhealthy
+3/17/2023,181,177,38,19,14,13,181,Unhealthy
+3/18/2023,183,92,22,17,13,11,183,Unhealthy
+3/19/2023,160,99,30,14,7,9,160,Unhealthy
+3/20/2023,163,110,25,13,3,9,163,Unhealthy
+3/21/2023,139,52,27,8,10,8,139,Unhealthy for Sensitive Groups
+3/22/2023,106,110,41,4,5,9,110,Unhealthy for Sensitive Groups
+3/23/2023,164,165,29,3,7,10,165,Unhealthy
+3/24/2023,168,168,19,5,3,10,168,Unhealthy
+3/25/2023,168,67,30,3,3,8,168,Unhealthy
+3/26/2023,101,121,33,3,4,8,121,Unhealthy for Sensitive Groups
+3/27/2023,145,116,34,3,8,8,145,Unhealthy for Sensitive Groups
+3/28/2023,149,194,34,4,6,9,194,Unhealthy
+3/29/2023,173,190,51,5,3,10,190,Unhealthy
+3/30/2023,165,143,49,4,4,9,165,Unhealthy
+3/31/2023,148,42,34,4,9,8,148,Unhealthy for Sensitive Groups
+4/1/2023,84,73,43,3,5,10,84,Moderate
+4/2/2023,130,101,32,3,13,11,130,Unhealthy for Sensitive Groups
+4/3/2023,166,222,34,3,4,11,222,Very Unhealthy
+4/4/2023,150,106,27,3,1,8,150,Unhealthy for Sensitive Groups
+4/5/2023,105,140,33,3,4,8,140,Unhealthy for Sensitive Groups
+4/6/2023,153,122,31,3,7,8,153,Unhealthy
+4/7/2023,123,153,36,5,5,7,153,Unhealthy
+4/8/2023,157,239,44,15,2,9,239,Very Unhealthy
+4/9/2023,148,240,48,17,6,9,240,Very Unhealthy
+4/10/2023,218,293,52,16,6,10,293,Very Unhealthy
+4/11/2023,189,393,49,16,5,11,393,Hazardous
+4/12/2023,219,271,37,15,17,8,271,Very Unhealthy
+4/13/2023,174,374,40,16,16,8,374,Hazardous
+4/14/2023,209,367,43,18,14,7,367,Hazardous
+4/15/2023,205,327,51,20,16,9,327,Hazardous
+4/16/2023,202,283,30,20,8,12,283,Very Unhealthy
+4/17/2023,157,270,42,16,15,8,270,Very Unhealthy
+4/18/2023,149,331,27,18,8,9,331,Hazardous
+4/19/2023,175,269,48,12,7,6,269,Very Unhealthy
+4/20/2023,152,165,31,11,6,6,165,Unhealthy
+4/21/2023,149,142,43,13,5,7,149,Unhealthy for Sensitive Groups
+4/22/2023,114,125,58,12,6,6,125,Unhealthy for Sensitive Groups
+4/23/2023,109,97,38,11,6,6,109,Unhealthy for Sensitive Groups
+4/24/2023,78,178,69,17,14,8,178,Unhealthy
+4/25/2023,169,132,78,16,7,8,169,Unhealthy
+4/26/2023,130,292,87,23,7,12,292,Very Unhealthy
+4/27/2023,183,214,67,20,7,8,214,Very Unhealthy
+4/28/2023,154,187,49,19,8,10,187,Unhealthy
+4/29/2023,154,237,33,18,8,10,237,Very Unhealthy
+4/30/2023,175,131,42,15,8,8,175,Unhealthy
+5/1/2023,157,58,12,13,4,8,157,Unhealthy
+5/2/2023,125,69,27,11,2,8,125,Unhealthy for Sensitive Groups
+5/3/2023,127,83,29,12,4,9,127,Unhealthy for Sensitive Groups
+5/4/2023,127,92,54,13,5,10,127,Unhealthy for Sensitive Groups
+5/5/2023,146,218,49,15,4,10,218,Very Unhealthy
+5/6/2023,183,295,31,15,7,9,295,Very Unhealthy
+5/7/2023,215,182,50,14,7,8,215,Very Unhealthy
+5/8/2023,162,110,39,15,4,8,162,Unhealthy
+5/9/2023,134,260,57,13,11,9,260,Very Unhealthy
+5/10/2023,213,238,52,14,13,9,238,Very Unhealthy
+5/11/2023,188,447,67,17,10,12,447,Hazardous
+5/12/2023,239,370,64,19,4,15,370,Hazardous
+5/13/2023,188,276,77,22,7,12,276,Very Unhealthy
+5/14/2023,179,328,56,18,6,11,328,Hazardous
+5/15/2023,184,157,43,11,7,6,184,Unhealthy
+5/16/2023,107,538,36,10,5,6,538,Hazardous
+5/17/2023,179,421,35,14,12,8,421,Hazardous
+5/18/2023,191,110,51,11,8,6,191,Unhealthy
+5/19/2023,101,170,47,13,15,7,170,Unhealthy
+5/20/2023,161,240,48,17,15,9,240,Very Unhealthy
+5/21/2023,158,313,65,23,7,11,313,Hazardous
+5/22/2023,163,260,33,19,8,7,260,Very Unhealthy
+5/23/2023,146,317,30,14,8,6,317,Hazardous
+5/24/2023,126,136,26,14,4,6,136,Unhealthy for Sensitive Groups
+5/25/2023,85,127,40,14,4,6,127,Unhealthy for Sensitive Groups
+5/26/2023,63,127,34,16,6,7,127,Unhealthy for Sensitive Groups
+5/27/2023,63,94,35,19,4,7,94,Moderate
+5/28/2023,75,139,54,21,4,9,139,Unhealthy for Sensitive Groups
+5/29/2023,139,100,34,17,4,7,139,Unhealthy for Sensitive Groups
+5/30/2023,104,96,45,13,5,7,104,Unhealthy for Sensitive Groups
+5/31/2023,116,66,26,14,3,7,116,Unhealthy for Sensitive Groups
+6/1/2023,114,112,28,16,4,8,114,Unhealthy for Sensitive Groups
+6/2/2023,142,101,36,12,7,6,142,Unhealthy for Sensitive Groups
+6/3/2023,127,181,37,19,7,8,181,Unhealthy
+6/4/2023,162,158,44,20,5,8,162,Unhealthy
+6/5/2023,171,157,47,17,3,7,171,Unhealthy
+6/6/2023,154,227,65,20,4,7,227,Very Unhealthy
+6/7/2023,133,346,36,18,7,7,346,Hazardous
+6/8/2023,168,138,50,15,17,7,168,Unhealthy
+6/9/2023,136,157,35,16,9,6,157,Unhealthy
+6/10/2023,117,163,31,17,4,6,163,Unhealthy
+6/11/2023,103,120,35,14,3,6,120,Unhealthy for Sensitive Groups
+6/12/2023,101,177,30,15,6,7,177,Unhealthy
+6/13/2023,131,280,18,15,6,7,280,Very Unhealthy
+6/14/2023,136,206,15,14,5,6,206,Very Unhealthy
+6/15/2023,109,148,23,13,5,6,148,Unhealthy for Sensitive Groups
+6/16/2023,100,119,13,16,5,7,119,Unhealthy for Sensitive Groups
+6/17/2023,103,136,13,14,2,7,136,Unhealthy for Sensitive Groups
+6/18/2023,121,73,24,13,2,7,121,Unhealthy for Sensitive Groups
+6/19/2023,87,67,8,14,2,6,87,Moderate
+6/20/2023,66,103,19,14,2,8,103,Unhealthy for Sensitive Groups
+6/21/2023,116,84,16,15,2,7,116,Unhealthy for Sensitive Groups
+6/22/2023,95,108,3,19,2,9,108,Unhealthy for Sensitive Groups
+6/23/2023,121,126,17,18,1,9,126,Unhealthy for Sensitive Groups
+6/24/2023,127,151,20,19,2,10,151,Unhealthy
+6/25/2023,136,42,12,12,2,7,136,Unhealthy for Sensitive Groups
+6/26/2023,71,75,16,17,7,11,75,Moderate
+6/27/2023,150,71,23,15,6,9,150,Unhealthy for Sensitive Groups
+6/28/2023,121,83,21,14,3,9,121,Unhealthy for Sensitive Groups
+6/29/2023,111,76,19,12,1,10,111,Unhealthy for Sensitive Groups
+6/30/2023,111,66,31,11,2,8,111,Unhealthy for Sensitive Groups
+7/1/2023,76,69,14,9,3,7,76,Moderate
+7/2/2023,79,76,11,9,2,7,79,Moderate
+7/3/2023,101,102,10,12,2,7,102,Unhealthy for Sensitive Groups
+7/4/2023,129,111,19,17,1,10,129,Unhealthy for Sensitive Groups
+7/5/2023,117,68,13,12,2,9,117,Unhealthy for Sensitive Groups
+7/6/2023,115,58, ,13,2,8,115,Unhealthy for Sensitive Groups
+7/7/2023,96,72, ,12,2,8,96,Moderate
+7/8/2023,108,48,9,13,2,9,108,Unhealthy for Sensitive Groups
+7/9/2023,96,34,8,11,2,8,96,Moderate
+7/10/2023,85,41,5,9,1,7,85,Moderate
+7/11/2023,85,51,12,8,5,7,85,Moderate
+7/12/2023,88,60,29,11,10,9,88,Moderate
+7/13/2023,99,71,33,10,7,8,99,Moderate
+7/14/2023,114, , , , , ,114,Unhealthy for Sensitive Groups
+7/21/2023, ,98,11,9,2,8,98,Moderate
+7/22/2023,111,84,6,9,7,8,111,Unhealthy for Sensitive Groups
+7/23/2023,106,74,33,7,11,8,106,Unhealthy for Sensitive Groups
+7/24/2023,92,75,27,8,7,7,92,Moderate
+7/25/2023,92,87,8,9,11,8,92,Moderate
+7/26/2023,142,58,26,10,9,8,142,Unhealthy for Sensitive Groups
+7/27/2023,80,81,28,13,7,8,81,Moderate
+7/28/2023,125,65,24,12,13,7,125,Unhealthy for Sensitive Groups
+7/29/2023,120,35,8,11,8,7,120,Unhealthy for Sensitive Groups
+7/30/2023,53,56,12,10,11,6,56,Moderate
+7/31/2023,67,96,23,12,10,7,96,Moderate
+8/1/2023,134,90,7,12,9,7,134,Unhealthy for Sensitive Groups
+8/2/2023,83,88,9,11,8,6,88,Moderate
+8/3/2023,80,87,16,10,9,6,87,Moderate
+8/4/2023,87,98,28,11,7,7,98,Moderate
+8/5/2023,104,72,11,15,8,8,104,Unhealthy for Sensitive Groups
+8/6/2023,106,104,16,12,7,6,106,Unhealthy for Sensitive Groups
+8/7/2023,88,106,17,11,8,6,106,Unhealthy for Sensitive Groups
+8/8/2023,77,132,18,10,7,6,132,Unhealthy for Sensitive Groups
+8/9/2023,78,111,16,11,7,6,111,Unhealthy for Sensitive Groups
+8/10/2023,85,123,20,9,8,6,123,Unhealthy for Sensitive Groups
+8/11/2023,92,123,21,10,8,6,123,Unhealthy for Sensitive Groups
+8/12/2023,95,126,22,10,8,6,126,Unhealthy for Sensitive Groups
+8/13/2023,87,95,21,10,8,6,95,Moderate
+8/14/2023,69,108,34,11,8,6,108,Unhealthy for Sensitive Groups
+8/15/2023,96,84,33,10,7,6,96,Moderate
+8/16/2023,116,119,29,12,8,7,119,Unhealthy for Sensitive Groups
+8/17/2023,129,153,26,11,8,7,153,Unhealthy
+8/18/2023,125,185,28,11,8,6,185,Unhealthy
+8/19/2023,125,81,44,12,7,7,125,Unhealthy for Sensitive Groups
+8/20/2023,118,76,31,12,10,8,118,Unhealthy for Sensitive Groups
+8/21/2023,107,100,35,12,7,7,107,Unhealthy for Sensitive Groups
+8/22/2023,114,95,23,13,9,8,114,Unhealthy for Sensitive Groups
+8/23/2023,121,64,14,12,8,8,121,Unhealthy for Sensitive Groups
+8/24/2023,74,120,16,11,7,7,120,Unhealthy for Sensitive Groups
+8/25/2023,89,129,15,9,9,6,129,Unhealthy for Sensitive Groups
+8/26/2023,94,169,15,11,8,6,169,Unhealthy
+8/27/2023,122,165,16,9,7,5,165,Unhealthy
+8/28/2023,128,149,13,9,9,6,149,Unhealthy for Sensitive Groups
+8/29/2023,117,155,15,10,9,6,155,Unhealthy
+8/30/2023,115,153,24,9,8,7,153,Unhealthy
+8/31/2023,131,152,18,10,9,7,152,Unhealthy
+9/1/2023,140,147,14,10,8,7,147,Unhealthy for Sensitive Groups
+9/2/2023,120,181,18,10,9,6,181,Unhealthy
+9/3/2023,125,144,20,9,10,6,144,Unhealthy for Sensitive Groups
+9/4/2023,117,130,18,10,10,7,130,Unhealthy for Sensitive Groups
+9/5/2023,114,110,36,11,11,7,114,Unhealthy for Sensitive Groups
+9/6/2023,118,100,29,13,10,9,118,Unhealthy for Sensitive Groups
+9/7/2023,106,72,33,13,11,8,106,Unhealthy for Sensitive Groups
+9/8/2023,90,63,37,12,10,8,90,Moderate
+9/9/2023,83,24,15,9,10,6,83,Moderate
+9/10/2023,35,9,14,8,11,6,35,Good
+9/11/2023,21,49,22,12,11,8,49,Good
+9/12/2023,90,96,24,15,14,9,96,Moderate
+9/13/2023,118,128,41,18,11,9,128,Unhealthy for Sensitive Groups
+9/14/2023,139,125,15,17,7,9,139,Unhealthy for Sensitive Groups
+9/15/2023,146,89,18,16,8,8,146,Unhealthy for Sensitive Groups
+9/16/2023,102,65, ,14,7,8,102,Unhealthy for Sensitive Groups
+9/17/2023,94,56,9,15,7,7,94,Moderate
+9/18/2023,69,55,10,13,8,6,69,Moderate
+9/19/2023,50,72,19,15,8,6,72,Moderate
+9/20/2023,91,133,30,15,8,7,133,Unhealthy for Sensitive Groups
+9/21/2023,88,120,28,17,8,8,120,Unhealthy for Sensitive Groups
+9/22/2023,149,118,22,15,8,8,149,Unhealthy for Sensitive Groups
+9/23/2023,147,136,18,17,7,9,147,Unhealthy for Sensitive Groups
+9/24/2023,149,161,24,16,8,9,161,Unhealthy
+9/25/2023,178,121,37,15,7,9,178,Unhealthy
+9/26/2023,218,131,25,16,8,8,218,Very Unhealthy
+9/27/2023, ,132,26,15,8,8,132,Unhealthy for Sensitive Groups
+9/28/2023,135,121,26,16,8,9,135,Unhealthy for Sensitive Groups
+9/29/2023,154,293,57,18,10,8,293,Very Unhealthy
+9/30/2023,167,173,40,16,8,7,173,Unhealthy
+10/1/2023,157,169,36,17,11,7,169,Unhealthy
+10/2/2023,159,134,40,16,10,7,159,Unhealthy
+10/3/2023,148,266,42,18,10,7,266,Very Unhealthy
+10/4/2023,164,294,47,20,10,8,294,Very Unhealthy
+10/5/2023,164,337,49,24,11,8,337,Hazardous
+10/6/2023,172,292,34,22,11,10,292,Very Unhealthy
+10/7/2023,167,369,18,18,7,10,369,Hazardous
+10/8/2023,178,191,18,17,7,8,191,Unhealthy
+10/9/2023,136,197,17,15,8,8,197,Unhealthy
+10/10/2023,143,174,13,16,6,8,174,Unhealthy
+10/11/2023,252,174,59,15,8,8,252,Very Unhealthy
+10/12/2023,179,255,33,19,8,9,255,Very Unhealthy
+10/13/2023,203,407,40,20,8,11,407,Hazardous
+10/14/2023,271,406,37,23,8,13,406,Hazardous
+10/15/2023,231,355,37,19,8,10,355,Hazardous
+10/16/2023,181,189,24,16,8,7,189,Unhealthy
+10/17/2023,132,92,24,19,9,8,132,Unhealthy for Sensitive Groups
+10/18/2023,111,103,26,16,7,6,111,Unhealthy for Sensitive Groups
+10/19/2023,133,116,34,17,9,7,133,Unhealthy for Sensitive Groups
+10/20/2023,141,190,24,19,7,9,190,Unhealthy
+10/21/2023,206,229,14,22,3,9,229,Very Unhealthy
+10/22/2023,233,265,13,19,6,11,265,Very Unhealthy
+10/23/2023,252,205,14,17,3,9,252,Very Unhealthy
+10/24/2023,234,153,13,15,2,9,234,Very Unhealthy
+10/25/2023,188,155,14,13,2,8,188,Unhealthy
+10/26/2023,186,171,14,17,2,10,186,Unhealthy
+10/27/2023,222,258,14,24,3,11,258,Very Unhealthy
+10/28/2023,229,374,14,29,3,15,374,Hazardous
+10/29/2023,270,537,36,38,1,23,537,Hazardous
+10/30/2023,314,469,41,36,2,16,469,Hazardous
+10/31/2023,319,439,31,34,2,17,439,Hazardous
+11/1/2023,316,377,28,29,2,14,377,Hazardous
+11/2/2023,332,519,19,32,2,20,519,Hazardous
+11/3/2023,451,418,23,27,4,15,451,Hazardous
+11/4/2023,412,383,19,28,7,17,412,Hazardous
+11/5/2023,395,448,18,28,6,17,448,Hazardous
+11/6/2023,442,482,27,40,6,21,482,Hazardous
+11/7/2023,350,444,27,37,7,19,444,Hazardous
+11/8/2023,347,427,14,32,7,16,427,Hazardous
+11/9/2023,364,434,14,36,6,20,434,Hazardous
+11/10/2023,381,203,11,26,6,9,381,Hazardous
+11/11/2023,211,85,10,12,4,9,211,Very Unhealthy
+11/12/2023,137,126,17,14,6,8,137,Unhealthy for Sensitive Groups
+11/13/2023,206,266,20,18,8,11,266,Very Unhealthy
+11/14/2023,368,238,16,22,5,12,368,Hazardous
+11/15/2023,310,299,20,23,5,12,310,Hazardous
+11/16/2023,359,504,19,33,6,18,504,Hazardous
+11/17/2023,441,450,21,33,5,15,450,Hazardous
+11/18/2023,378,279,16,37,5,15,378,Hazardous
+11/19/2023,272,252,23,30,5,13,272,Very Unhealthy
+11/20/2023,262,332,21,31,5,17,332,Hazardous
+11/21/2023,303,310,15,23,5,12,310,Hazardous
+11/22/2023,350,324,20,25,7,14,350,Hazardous
+11/23/2023,334,401,27,40,7,18,401,Hazardous
+11/24/2023,343,529,28,41,6,21,529,Hazardous
+11/25/2023,424,478,20,38,6,16,478,Hazardous
+11/26/2023,395,499,21,43,7,24,499,Hazardous
+11/27/2023,374,429,14,36,6,14,429,Hazardous
+11/28/2023,358,150,10,24,6,10,358,Hazardous
+11/29/2023,227,230,14,28,6,13,230,Very Unhealthy
+11/30/2023,265,392,17,32,6,17,392,Hazardous
+12/1/2023,370,225,16,16,6,11,370,Hazardous
+12/2/2023,290,250,15,21,7,10,290,Very Unhealthy
+12/3/2023,265,302,20,28,7,11,302,Hazardous
+12/4/2023,280,219,15,22,6,11,280,Very Unhealthy
+12/5/2023,244,204,16,21,7,11,244,Very Unhealthy
+12/6/2023,248,253,13,28,6,11,253,Very Unhealthy
+12/7/2023,236,280,14,31,7,12,280,Very Unhealthy
+12/8/2023,257,267,15,28,6,13,267,Very Unhealthy
+12/9/2023,255,262,16,27,6,13,262,Very Unhealthy
+12/10/2023,260,290,10,34,7,15,290,Very Unhealthy
+12/11/2023,253,276,17,26,6,14,276,Very Unhealthy
+12/12/2023,256,459,13,36,4,12,459,Hazardous
+12/13/2023,350,367,14,31,4,6,367,Hazardous
+12/14/2023,334,303,12,27,7,9,334,Hazardous
+12/15/2023,286,316,12,31,6,13,316,Hazardous
+12/16/2023,283,393,14,32,7,13,393,Hazardous
+12/17/2023,323,339,15,30,6,12,339,Hazardous
+12/18/2023,296,214,14,22,4,10,296,Very Unhealthy
+12/19/2023,260,222,14,23,5,10,260,Very Unhealthy
+12/20/2023,227,272,10,27,5,11,272,Very Unhealthy
+12/21/2023,235,326,19,27,6,13,326,Hazardous
+12/22/2023,330,425,20,33,7,28,425,Hazardous
+12/23/2023,383,574,17,40,5,17,574,Hazardous
+12/24/2023,446,409,21,29,6,15,446,Hazardous
+12/25/2023,399,284,18,23,5,13,399,Hazardous
+12/26/2023,307,319,10,22,4,14,319,Hazardous
+12/27/2023,366,209,4,15,3,14,366,Hazardous
+12/28/2023,307,159,8,13,5,11,307,Hazardous
+12/29/2023,254,430,12,30,5,15,430,Hazardous
+12/30/2023,406,319,11,25,5,13,406,Hazardous
+12/31/2023,360,255,12,25,5,13,360,Hazardous
+1/1/2024,321,194,8,10,4,8,321,Hazardous
+1/2/2024,250,166,13,12,13,9,250,Very Unhealthy
+1/3/2024,247,215,10,17,6,11,247,Very Unhealthy
+1/4/2024,281,195,5,11,4,10,281,Very Unhealthy
+1/5/2024,277,149,7,10,5,9,277,Very Unhealthy
+1/6/2024,218,163,9,11,5,9,218,Very Unhealthy
+1/7/2024,230,227,8,18,5,11,230,Very Unhealthy
+1/8/2024,279,239,7,16,8,10,279,Very Unhealthy
+1/9/2024,287,147,11,9,4,8,287,Very Unhealthy
+1/10/2024,207,175,7,12,5,10,207,Very Unhealthy
+1/11/2024,243,222,6,14,5,11,243,Very Unhealthy
+1/12/2024,281,176,9,17,4,11,281,Very Unhealthy
+1/13/2024,268,469,10,26,5,20,469,Hazardous
+1/14/2024,450,244,4,18,3,16,450,Hazardous
+1/15/2024,328,164,12,16,3,13,328,Hazardous
+1/16/2024,252,319,15,26,4,18,319,Hazardous
+1/17/2024,371,314,15,28,5,14,371,Hazardous
+1/18/2024,331,257,11,23,4,13,331,Hazardous
+1/19/2024,359,235,1,26,1,14,359,Hazardous
+1/20/2024,295,299,3,23,2,13,299,Very Unhealthy
+1/21/2024,330,127,3,12,1,11,330,Hazardous
+1/22/2024,206,253,4,21,1,12,253,Very Unhealthy
+1/23/2024,285,280,3,20,1,12,285,Very Unhealthy
+1/24/2024,321,240,2,16,2,12,321,Hazardous
+1/25/2024,304,164,3,15,1,13,304,Hazardous
+1/26/2024,246,372,5,22,1,18,372,Hazardous
+1/27/2024,386,260,3,28,3,11,386,Hazardous
+1/28/2024,273,384,3,39,5,15,384,Hazardous
+1/29/2024,346,262,3,22,2,13,346,Hazardous
+1/30/2024,301,154,2,13,1,12,301,Hazardous
+1/31/2024,238,273,2,33,3,18,273,Very Unhealthy
+2/1/2024,357,102,1,21,1,10,357,Hazardous
+2/2/2024,181,103, ,14,1,10,181,Unhealthy
+2/3/2024,184,154,1,17,2,10,184,Unhealthy
+2/4/2024,182,179,1,26,3,11,182,Unhealthy
+2/5/2024,220,94,1,10,4,7,220,Very Unhealthy
+2/6/2024,163,93,1,12,2,8,163,Unhealthy
+2/7/2024,152,135,5,15,2,7,152,Unhealthy
+2/8/2024,166,105,1,12,2,7,166,Unhealthy
+2/9/2024,138,143,1,20,1,8,143,Unhealthy for Sensitive Groups
+2/10/2024,159,259,1,25,4,11,259,Very Unhealthy
+2/11/2024,266,186,1,20,3,10,266,Very Unhealthy
+2/12/2024,244,222,1,22,2,11,244,Very Unhealthy
+2/13/2024,245,343,2,22,3,12,343,Hazardous
+2/14/2024,324,226, ,20,4,10,324,Hazardous
+2/15/2024,272,208,1,21,2,10,272,Very Unhealthy
+2/16/2024,213,196,8,21,4,10,213,Very Unhealthy
+2/17/2024,222,280,8,26,4,11,280,Very Unhealthy
+2/18/2024,235,412,8,33,5,13,412,Hazardous
+2/19/2024,243,188,10,20,4,8,243,Very Unhealthy
+2/20/2024,173,168,10,22,3,10,173,Unhealthy
+2/21/2024,192,162,8,14,1,8,192,Unhealthy
+2/22/2024,182,123,6,16,6,7,182,Unhealthy
+2/23/2024,140,148,8,15,9,7,148,Unhealthy for Sensitive Groups
+2/24/2024,155,230,8,21,5,8,230,Very Unhealthy
+2/25/2024,175,154,8,21,4,8,175,Unhealthy
+2/26/2024,165,153,6,19,7,8,165,Unhealthy
+2/27/2024,158,98,6,15,5,7,158,Unhealthy
+2/28/2024,142,110,8,12,3,7,142,Unhealthy for Sensitive Groups
+2/29/2024,148,136, ,15,4,7,148,Unhealthy for Sensitive Groups
+3/1/2024,174,156,17,26,6,9,174,Unhealthy
+3/2/2024,161,83,17,12,2,6,161,Unhealthy
+3/3/2024,91,116,16,10,2,6,116,Unhealthy for Sensitive Groups
+3/4/2024,106,90,15,11,3,7,106,Unhealthy for Sensitive Groups
+3/5/2024,130,94,23,9,7,6,130,Unhealthy for Sensitive Groups
+3/6/2024,140,120,17,13,6,8,140,Unhealthy for Sensitive Groups
+3/7/2024,166,196,23,17,9,8,196,Unhealthy
+3/8/2024,202,181,23,13,5,7,202,Very Unhealthy
+3/9/2024,152,140,23,11,5,6,152,Unhealthy
+3/10/2024,146,140,5,14,11,7,146,Unhealthy for Sensitive Groups
+3/11/2024,182,110,5,10,4,6,182,Unhealthy
+3/12/2024,135,161,5,15,5,8,161,Unhealthy
+3/13/2024,175,154,5,16,7,8,175,Unhealthy
+3/14/2024,182,213,5,16,9,9,213,Very Unhealthy
+3/15/2024,198,175,5,11,5,7,198,Unhealthy
+3/16/2024,136,135,5,14,10,7,136,Unhealthy for Sensitive Groups
+3/17/2024,178,161,5,17,13,8,178,Unhealthy
+3/18/2024,206,170,5,16,19,8,206,Very Unhealthy
+3/19/2024,206,215,5,18,15,9,215,Very Unhealthy
+3/20/2024,219,231,5,16,19,9,231,Very Unhealthy
+3/21/2024,240,171,5,17,7,9,240,Very Unhealthy
+3/22/2024,186,102,5,15,5,7,186,Unhealthy
+3/23/2024,146,189, ,9,11,5,189,Unhealthy
+3/24/2024,201,120,24,15,6,11,201,Very Unhealthy
+3/25/2024,139,126,32,9,6,8,139,Unhealthy for Sensitive Groups
+3/26/2024,169,129,21,11,13,8,169,Unhealthy
+3/27/2024,170,204,18,17,5,8,204,Very Unhealthy
+3/28/2024,173,130,30,15,7,7,173,Unhealthy
+3/29/2024,156,170,11,20,7,10,170,Unhealthy
+3/30/2024,193,141,34,14,3,7,193,Unhealthy
+3/31/2024,155,111,19,5,3,6,155,Unhealthy
+4/1/2024,96,157,30,7,10,8,157,Unhealthy
+4/2/2024,148,158,43,10,12,7,158,Unhealthy
+4/3/2024,157,201,68,17,5,8,201,Very Unhealthy
+4/4/2024,157,170,56,13,13,7,170,Unhealthy
+4/5/2024,146,193,50,13,9,7,193,Unhealthy
+4/6/2024,151,169,78,11,13,7,169,Unhealthy
+4/7/2024,161,182,28,21,19,11,182,Unhealthy
+4/8/2024,119,235,39,28,19,8,235,Very Unhealthy
+4/9/2024,259,286,64,35,8,8,286,Very Unhealthy
+4/10/2024,184,203,87,40,7,10,203,Very Unhealthy
+4/11/2024,176,241,68,35,5,9,241,Very Unhealthy
+4/12/2024,164,215,87,35,15,9,215,Very Unhealthy
+4/13/2024,181,119,64,19,3,6,181,Unhealthy
+4/14/2024,115,113,36,20,2,8,115,Unhealthy for Sensitive Groups
+4/15/2024,145,321,34,34,5,12,321,Hazardous
+4/16/2024,220,273,30,24,9,9,273,Very Unhealthy
+4/17/2024,178,114,45,14,10,6,178,Unhealthy
+4/18/2024,118,139,30,24,7,6,139,Unhealthy for Sensitive Groups
+4/19/2024,126,213,30,28,7,8,213,Very Unhealthy
+4/20/2024,137,222,45,18,12,6,222,Very Unhealthy
+4/21/2024,142,124,41,17,13,6,142,Unhealthy for Sensitive Groups
+4/22/2024,123,127,46,21,13,7,127,Unhealthy for Sensitive Groups
+4/23/2024,133,236,28,31,13,9,236,Very Unhealthy
+4/24/2024,185,181,45,28,8,10,185,Unhealthy
+4/25/2024,168,124,33,20,8,7,168,Unhealthy
+4/26/2024,92,177,58,26,9,9,177,Unhealthy
+4/27/2024,153,152,40,20,8,7,153,Unhealthy
+4/28/2024,130,140,45,19,12,8,140,Unhealthy for Sensitive Groups
+4/29/2024,138,203,49,22,8,9,203,Very Unhealthy
+4/30/2024,156,163,52,17,14,8,163,Unhealthy
+5/1/2024,150,207,42,15,12,8,207,Very Unhealthy
+5/2/2024,156,190,43,19,18,8,190,Unhealthy
+5/3/2024,169,296,72,28,21,11,296,Very Unhealthy
+5/4/2024,248,393,79,36,26,14,393,Hazardous
+5/5/2024,291,635,68,42,29,20,635,Hazardous
+5/6/2024,392,241,60,24,12,9,392,Hazardous
+5/7/2024,171,471,79,39,18,14,471,Hazardous
+5/8/2024,310,166,34,25,2,8,310,Hazardous
+5/9/2024,156,122,67,21,3,9,156,Unhealthy
+5/10/2024,133,197,56,22,3,10,197,Unhealthy
+5/11/2024,160,177,61,20,4,7,177,Unhealthy
+5/12/2024,137,202,63,25,6,10,202,Very Unhealthy
+5/13/2024,187,207,58,26,6,10,207,Very Unhealthy
+5/14/2024,178,186,67,21,12,9,186,Unhealthy
+5/15/2024,182,337,73,37,19,15,337,Hazardous
+5/16/2024,252,219,89,42,8,14,252,Very Unhealthy
+5/17/2024,188,209,57,33,8,10,209,Very Unhealthy
+5/18/2024,177,273,62,27,14,11,273,Very Unhealthy
+5/19/2024,209,305,41,28,19,10,305,Hazardous
+5/20/2024,203,230,40,24,12,8,230,Very Unhealthy
+5/21/2024,154,191,59,31,5,11,191,Unhealthy
+5/22/2024,162,138,36,24,3,10,162,Unhealthy
+5/23/2024,170,110,34,21,3,9,170,Unhealthy
+5/24/2024,135,98,44,22,2,9,135,Unhealthy for Sensitive Groups
+5/25/2024,118,128,36,24,2,9,128,Unhealthy for Sensitive Groups
+5/26/2024,152,154,35,22,10,7,154,Unhealthy
+5/27/2024,111,262,41,33,14,12,262,Very Unhealthy
+5/28/2024,186,284,40,44,11,13,284,Very Unhealthy
+5/29/2024,170,211,31,40,4,11,211,Very Unhealthy
+5/30/2024,145,179,42,35,5,8,179,Unhealthy
+5/31/2024,133,228,44,33,5,9,228,Very Unhealthy
+6/1/2024,145,272,22,29,6,10,272,Very Unhealthy
+6/2/2024,155,137,37,23,4,8,155,Unhealthy
+6/3/2024,119,176,33,23,6,8,176,Unhealthy
+6/4/2024,136,252,41,28,4,8,252,Very Unhealthy
+6/5/2024,186,222,25,20,5,6,222,Very Unhealthy
+6/6/2024,155,134,47,22,4,6,155,Unhealthy
+6/7/2024,135,251,41,19,5,6,251,Very Unhealthy
+6/8/2024,166,230,47,19,12,7,230,Very Unhealthy
+6/9/2024,140,135,57,17,9,7,140,Unhealthy for Sensitive Groups
+6/10/2024,128,130,61,18,10,7,130,Unhealthy for Sensitive Groups
+6/11/2024,131,271,71,32,22,9,271,Very Unhealthy
+6/12/2024,178,306,50,29,15,9,306,Hazardous
+6/13/2024,163,207,40,23,9,7,207,Very Unhealthy
+6/14/2024,136,218,46,18,4,5,218,Very Unhealthy
+6/15/2024,119,160,44,19,4,7,160,Unhealthy
+6/16/2024,115,134,39,21,13,8,134,Unhealthy for Sensitive Groups
+6/17/2024,117,164,59,22,9,8,164,Unhealthy
+6/18/2024,134,278,33,20,6,7,278,Very Unhealthy
+6/19/2024,148,240,38,21,4,7,240,Very Unhealthy
+6/20/2024,137,144,76,21,2,7,144,Unhealthy for Sensitive Groups
+6/21/2024,100,139,36,25,2,9,139,Unhealthy for Sensitive Groups
+6/22/2024,141,307,54,28,1,10,307,Hazardous
+6/23/2024,183,98,62,23,1,9,183,Unhealthy
+6/24/2024,135,106,28,24,1,10,135,Unhealthy for Sensitive Groups
+6/25/2024,123,124,39,23,1,10,124,Unhealthy for Sensitive Groups
+6/26/2024,151,102,39,29,1,10,151,Unhealthy
+6/27/2024,127,70,15,29, ,9,127,Unhealthy for Sensitive Groups
+6/28/2024,89,79,32,25,2,9,89,Moderate
+6/29/2024,91,217,20,27,2,11,217,Very Unhealthy
+6/30/2024,105,478,18,18,1,9,478,Hazardous
+7/1/2024,118,140,17,21,1,8,140,Unhealthy for Sensitive Groups
+7/2/2024,95,221,26,21, ,8,221,Very Unhealthy
+7/3/2024,108,176,27,24, ,8,176,Unhealthy
+7/4/2024,94,82,35,20,2,8,94,Moderate
+7/5/2024,82,135,14,29,2,10,135,Unhealthy for Sensitive Groups
+7/6/2024,113,145,45,13,2,7,145,Unhealthy for Sensitive Groups
+7/7/2024,71,60,42,15,1,7,71,Moderate
+7/8/2024,41,79,35,14,1,7,79,Moderate
+7/9/2024,55,198,37,23,1,9,198,Unhealthy
+7/10/2024,105,248,24,23, ,9,248,Very Unhealthy
+7/11/2024,141,101,29,25,4,8,141,Unhealthy for Sensitive Groups
+7/12/2024,103,92,41,15,5,6,103,Unhealthy for Sensitive Groups
+7/13/2024,79,102,32,25,5,8,102,Unhealthy for Sensitive Groups
+7/14/2024,104,128,30,18,5,8,128,Unhealthy for Sensitive Groups
+7/15/2024,127,85,29,22,5,9,127,Unhealthy for Sensitive Groups
+7/16/2024,100,159,28,20,4,8,159,Unhealthy
+7/17/2024,127,97,60,63,6,8,127,Unhealthy for Sensitive Groups
+7/18/2024,95,86,33,37,4,11,95,Moderate
+7/19/2024,111,236,26,27,5,8,236,Very Unhealthy
+7/20/2024,143,191,29,17,5,8,191,Unhealthy
+7/21/2024,124,84,16,17,5,7,124,Unhealthy for Sensitive Groups
+7/22/2024,108,76,13,26,7,10,108,Unhealthy for Sensitive Groups
+7/23/2024,95,99,12,26,4,9,99,Moderate
+7/24/2024,121,99,16,24,6,7,121,Unhealthy for Sensitive Groups
+7/25/2024,123,153,11,19,5,9,153,Unhealthy
+7/26/2024,121,99,9,17,5,8,121,Unhealthy for Sensitive Groups
+7/27/2024,108,157,9,19,5, ,157,Unhealthy
+7/28/2024,128,96,10,17,4, ,128,Unhealthy for Sensitive Groups
+7/29/2024,99,77,12,15,5,8,99,Moderate
+7/30/2024,88,88,12,17,6,6,88,Moderate
+7/31/2024,103,74,18,16,5,6,103,Unhealthy for Sensitive Groups
+8/1/2024,86,26,31,16,6,6,86,Moderate
+8/2/2024,38,55,8,21,5,8,55,Moderate
+8/3/2024,82,54,11,17,5,7,82,Moderate
+8/4/2024,65,42,11,13,5,6,65,Moderate
+8/5/2024,45,39,14,13,6,6,45,Good
+8/6/2024,53,46,22,14,6,6,53,Moderate
+8/7/2024,48,27,13,16,5,7,48,Good
+8/8/2024,38,21,13,14,5,7,38,Good
+8/9/2024,46,53,13,16,5,7,53,Moderate
+8/10/2024,73,76,8,22,4,8,76,Moderate
+8/11/2024,104,45,10,17,5,7,104,Unhealthy for Sensitive Groups
+8/12/2024,68,42,16,15,5,7,68,Moderate
+8/13/2024,78,35,23,16,5,7,78,Moderate
+8/14/2024,73,64,17,15,5,8,73,Moderate
+8/15/2024,121,63,18,10,5,6,121,Unhealthy for Sensitive Groups
+8/16/2024,92,34,17,11,5,6,92,Moderate
+8/17/2024,61,48,21,16,5,8,61,Moderate
+8/18/2024,85,64,20,12,5,7,85,Moderate
+8/19/2024,89,94,18,10,5,8,94,Moderate
+8/20/2024,104,39,20,10,5,7,104,Unhealthy for Sensitive Groups
+8/21/2024,77,47,21,16,5,7,77,Moderate
+8/22/2024,85,56,15,11,5,6,85,Moderate
+8/23/2024,72,66,19,10,5,8,72,Moderate
+8/24/2024,79,94,18,12,5,8,94,Moderate
+8/25/2024,123,49,17,10,5,7,123,Unhealthy for Sensitive Groups
+8/26/2024,79,51,21,10,5,7,79,Moderate
+8/27/2024,79,36,17,12,6,7,79,Moderate
+8/28/2024,62,37,11,12,5,7,62,Moderate
+8/29/2024,64,49,8,13,5,9,64,Moderate
+8/30/2024,81,74,25,13,5,10,81,Moderate
+8/31/2024,116,94,13,13,4,6,116,Unhealthy for Sensitive Groups
+9/1/2024,116,202,20,9,5,6,202,Very Unhealthy
+9/2/2024,118,70,13,8,5,9,118,Unhealthy for Sensitive Groups
+9/3/2024,102,84,16,11,5,7,102,Unhealthy for Sensitive Groups
+9/4/2024,96,79,11,13,5,8,96,Moderate
+9/5/2024,83,79,8,12,5,8,83,Moderate
+9/6/2024,104,149,23,12,5,7,149,Unhealthy for Sensitive Groups
+9/7/2024,90,68,18,33,5,7,90,Moderate
+9/8/2024,76,214,29,11,4,8,214,Very Unhealthy
+9/9/2024,128,238,18,11,5,9,238,Very Unhealthy
+9/10/2024,134,117,60,24,5,10,134,Unhealthy for Sensitive Groups
+9/11/2024,130,172,43,16,5,8,172,Unhealthy
+9/12/2024,106,77,48,16,5,7,106,Unhealthy for Sensitive Groups
+9/13/2024,58,30,16,12,3,6,58,Moderate
+9/14/2024,42,93,30,15,5,9,93,Moderate
+9/15/2024,98,114,14,17,5,8,114,Unhealthy for Sensitive Groups
+9/16/2024,111,124,12,8,5,8,124,Unhealthy for Sensitive Groups
+9/17/2024,116,184,3,10,4,9,184,Unhealthy
+9/18/2024,134,85,7,16,5,9,134,Unhealthy for Sensitive Groups
+9/19/2024,103,63,5,13,5,9,103,Unhealthy for Sensitive Groups
+9/20/2024,92,188,9,20,7,9,188,Unhealthy
+9/21/2024,106,188,18,20,5,10,188,Unhealthy
+9/22/2024,138,195,6,14,4,9,195,Unhealthy
+9/23/2024,155,251,9,10,5,9,251,Very Unhealthy
+9/24/2024,170,119,9,11,5,8,170,Unhealthy
+9/25/2024,159,135,13,19,4,9,159,Unhealthy
+9/26/2024,148,83,14,15,4,8,148,Unhealthy for Sensitive Groups
+9/27/2024,85,76,11,15,5,7,85,Moderate
+9/28/2024,44,69,18,15,4,8,69,Moderate
+9/29/2024,58,80,13,13,5,8,80,Moderate
+9/30/2024,88,205,15,14,5,9,205,Very Unhealthy
+10/1/2024,163,166,21,16,5,9,166,Unhealthy
+10/2/2024,157,266,18,23,4,10,266,Very Unhealthy
+10/3/2024,156,201,18,21,6,10,201,Very Unhealthy
+10/4/2024,131,270,15,20,4,9,270,Very Unhealthy
+10/5/2024,133,239,10,18,5,9,239,Very Unhealthy
+10/6/2024,112,150,21,17,5,7,150,Unhealthy for Sensitive Groups
+10/7/2024,119,138,16,12,5,8,138,Unhealthy for Sensitive Groups
+10/8/2024,128,192,19,14,5,9,192,Unhealthy
+10/9/2024,162,138,23,12,5,9,162,Unhealthy
+10/10/2024,155,122,21,12,5,8,155,Unhealthy
+10/11/2024,131,151,34,16,6,8,151,Unhealthy
+10/12/2024,153,170,34,21,6,10,170,Unhealthy
+10/13/2024,163,220,34,21,5,10,220,Very Unhealthy
+10/14/2024,163,225,30,23,6,10,225,Very Unhealthy
+10/15/2024,171,310,36,27,6,11,310,Hazardous
+10/16/2024,177,357,36,33,5,14,357,Hazardous
+10/17/2024,192,416,47,37,5,19,416,Hazardous
+10/18/2024,226,493,26,35,6,20,493,Hazardous
+10/19/2024,235,481,20,38,4,17,481,Hazardous
+10/20/2024,219,373,41,29,6,15,373,Hazardous
+10/21/2024,236,260,36,25,5,13,260,Very Unhealthy
+10/22/2024,219,399,25,30,5,17,399,Hazardous
+10/23/2024,252,324,27,20,5,14,324,Hazardous
+10/24/2024,277,200,27,14,6,12,277,Very Unhealthy
+10/25/2024,227,247,24,22,6,12,247,Very Unhealthy
+10/26/2024,192,301,34,28,6,14,301,Hazardous
+10/27/2024,210,448,39,41,4,21,448,Hazardous
+10/28/2024,277,303,27,36,6,16,303,Hazardous
+10/29/2024,217,297,30,32,5,17,297,Very Unhealthy
+10/30/2024,195,348,22,28,5,17,348,Hazardous
+10/31/2024,225,280,20,16,7,14,280,Very Unhealthy
+11/1/2024,250,260,21,14,8,14,260,Very Unhealthy
+11/2/2024,274,214,26,20,7,16,274,Very Unhealthy
+11/3/2024,239,381,18,25,7,18,381,Hazardous
+11/4/2024,329,378,18,25,6,19,378,Hazardous
+11/5/2024,311,526,18,33,7,26,526,Hazardous
+11/6/2024,298,503,16,33,5,24,503,Hazardous
+11/7/2024,320,492,15,43,6,27,492,Hazardous
+11/8/2024,331,387,3,39,4,21,387,Hazardous
+11/9/2024,278,308,3,37,5,19,308,Hazardous
+11/10/2024,251,270,3,28,5,16,270,Very Unhealthy
+11/11/2024,262,382,3,34,6,23,382,Hazardous
+11/12/2024,302,313,3,27,5,19,313,Hazardous
+11/13/2024,288, ,3,17,4,25,288,Very Unhealthy
+11/14/2024,474, ,2,25,4,27,474,Hazardous
+11/15/2024,429, , , , , ,429,Hazardous
+11/16/2024, ,534,11,28,5,14,534,Hazardous
+11/17/2024,371,602,26,21,4,12,602,Hazardous
+11/18/2024,525,877,28,18,7,14,877,Hazardous
+11/19/2024,677,505,42,20,6,9,677,Hazardous
+11/20/2024,391,442,25,21,6,9,442,Hazardous
+11/21/2024,366,368,18,23,4,7,368,Hazardous
+11/22/2024,301,521,15,26,6,8,521,Hazardous
+11/23/2024,370,562,13,32,7,13,562,Hazardous
+11/24/2024,338,344,10,24,2,9,344,Hazardous
+11/25/2024,237,478,11,19,7,10,478,Hazardous
+11/26/2024,327,346,8,21,7,9,346,Hazardous
+11/27/2024,254,315,8,27,7,11,315,Hazardous
+11/28/2024,212,433,9,36,6,13,433,Hazardous
+11/29/2024,302,509,9,38,8,15,509,Hazardous
+11/30/2024,333,432,29,28,4,15,432,Hazardous
+12/1/2024,304,279,29,22,5,10,304,Hazardous
+12/2/2024,244,297,26,24,6,11,297,Very Unhealthy
+12/3/2024,227,206,24,23,5,9,227,Very Unhealthy
+12/4/2024,209,157,21,15,4,7,209,Very Unhealthy
+12/5/2024,156,174,25,17,6,7,174,Unhealthy
+12/6/2024,163,188,26,19,5,8,188,Unhealthy
+12/7/2024,164,218,26,24,7,15,218,Very Unhealthy
+12/8/2024,217,339,23,28,4,16,339,Hazardous
+12/9/2024,310,158,21,18,4,7,310,Hazardous
+12/10/2024,190,178,24,19,4,7,190,Unhealthy
+12/11/2024,182,228,26,21,5,9,228,Very Unhealthy
+12/12/2024,214,340,24,23,5,9,340,Hazardous
+12/13/2024,250,190,33,16,5,7,250,Very Unhealthy
+12/14/2024,193,197,26,21,6,9,197,Unhealthy
+12/15/2024,197,342,25,28,4,12,342,Hazardous
+12/16/2024,271,415,40,29,5,12,415,Hazardous
+12/17/2024,344,635,46,40,5,18,635,Hazardous
+12/18/2024,435,526,23,30,6,16,526,Hazardous
+12/19/2024,413,572,27,39,4,23,572,Hazardous
+12/20/2024,460,487,24,27,1,14,487,Hazardous
+12/21/2024,415,349,28,24,4,11,415,Hazardous
+12/22/2024,322,538,37,38,6,17,538,Hazardous
+12/23/2024,399,441,11,31,4,14,441,Hazardous
+12/24/2024,388,294,16,24,4,13,388,Hazardous
+12/25/2024,304,262,12,21,5,10,304,Hazardous
+12/26/2024,301,344,14,28,7,14,344,Hazardous
+12/27/2024,300,228,10,22,3,10,300,Very Unhealthy
+12/28/2024,253,111,5,17,4,8,253,Very Unhealthy
+12/29/2024,180,107,13,10,3,6,180,Unhealthy
+12/30/2024,176, , , , , ,176,Unhealthy
+1/1/2025, ,231,13,17,3,10,231,Very Unhealthy
+1/2/2025,256,221,10,16,3,11,256,Very Unhealthy
+1/3/2025,244,241,3,16,3,13,244,Very Unhealthy
+1/4/2025,247,609,13,41,4,23,609,Hazardous
+1/5/2025,465,271,14,23,2,12,465,Hazardous
+1/6/2025,261,172,12,16,3,10,261,Very Unhealthy
+1/7/2025,222,204,15,15,1,10,222,Very Unhealthy
+1/8/2025,230,283,23,24,1,10,283,Very Unhealthy
+1/9/2025,222,542,25,34,2,21,542,Hazardous
+1/10/2025,375,453,13,32,4,18,453,Hazardous
+1/11/2025,407,198,10,25,2,12,407,Hazardous
+1/12/2025,251,135,15,19, ,9,251,Very Unhealthy
+1/13/2025,207,150,13,17,1,11,207,Very Unhealthy
+1/14/2025,190,221,21,20,2,14,221,Very Unhealthy
+1/15/2025,229,427,13,33,2,15,427,Hazardous
+1/16/2025,365,203,23,26,1,7,365,Hazardous
+1/17/2025,241,142,17,16, ,5,241,Very Unhealthy
+1/18/2025,198,208,19,20,1,7,208,Very Unhealthy
+1/19/2025,223,435,26,23,1,13,435,Hazardous
+1/20/2025,330,278,27,23,1,5,330,Hazardous
+1/21/2025,244,290,29,24,3,5,290,Very Unhealthy
+1/22/2025,224,180,24,24,3,5,224,Very Unhealthy
+1/23/2025,211,191,26,22,3,4,211,Very Unhealthy
+1/24/2025,212,140,27,16,4,3,212,Very Unhealthy
+1/25/2025,171,271,26,22,3,6,271,Very Unhealthy
+1/26/2025,167,199,32,20,1,3,199,Unhealthy
+1/27/2025,183,236,35,22,1,5,236,Very Unhealthy
+1/28/2025,207,341,34,25,3,8,341,Hazardous
+1/29/2025,233,527,37,33,2,13,527,Hazardous
+1/30/2025,373,410,32,31,4,10,410,Hazardous
+1/31/2025,291,334,24,21,1,8,334,Hazardous
+2/1/2025,294,186,19,18,2,7,294,Very Unhealthy
+2/2/2025,227,186,21,20,3,5,227,Very Unhealthy
+2/3/2025,241,185,24,23,3,5,241,Very Unhealthy
+2/4/2025,201,310,19,34,3,9,310,Hazardous
+2/5/2025,258,201,32,22,3,4,258,Very Unhealthy
+2/6/2025,207,181,32,22,4,4,207,Very Unhealthy
+2/7/2025,194,160,33,21,3,3,194,Unhealthy
+2/8/2025,169,221,34,27,3,4,221,Very Unhealthy
+2/9/2025,176,192,40,28,5,4,192,Unhealthy
+2/10/2025,202,287,34,31,5,6,287,Very Unhealthy
+2/11/2025,259,402,39,31,2,9,402,Hazardous
+2/12/2025,257,217,30,22,1,4,257,Very Unhealthy
+2/13/2025,183,138,34,19,3,3,183,Unhealthy
+2/14/2025,152,145,35,25,4,3,152,Unhealthy
+2/15/2025,152,221,40,31,5,5,221,Very Unhealthy
+2/16/2025,183,323,39,28,3,9,323,Hazardous
+2/17/2025,269,259,32,26,7,6,269,Very Unhealthy
+2/18/2025,224,220,29,25,5,4,224,Very Unhealthy
+2/19/2025,181,188,33,24,4,4,188,Unhealthy
+2/20/2025,177,127,28,24,3,4,177,Unhealthy
+2/21/2025,150,140,32,21,3,5,150,Unhealthy for Sensitive Groups
+2/22/2025,177,118,29,16,4,3,177,Unhealthy
+2/23/2025,160,142,34,20,3,4,160,Unhealthy
+2/24/2025,174,164,36,21,3,4,174,Unhealthy
+2/25/2025,180,227,37,23,3,7,227,Very Unhealthy
+2/26/2025,203,331,45,27,3,8,331,Hazardous
+2/27/2025,211,220,18,21,3,6,220,Very Unhealthy
+2/28/2025,158,103,21,18,3,4,158,Unhealthy
+3/1/2025,155,86,25,19,3,4,155,Unhealthy
+3/2/2025,157,95,22,15,1,3,157,Unhealthy
+3/3/2025,137,138,34,21,3,4,138,Unhealthy for Sensitive Groups
+3/4/2025,168,122,26,16,2,3,168,Unhealthy
+3/5/2025,146,122,25,11,2,2,146,Unhealthy for Sensitive Groups
+3/6/2025,99,116,33,15,3,2,116,Unhealthy for Sensitive Groups
+3/7/2025,153, , , , , ,153,Unhealthy
